@@ -1,5 +1,5 @@
 # Transition-Markers-L2-Writing
-Code for paper on transition marker use in L2 English high-stakes essay writing
+Data, code, and annotation guide for paper on transition marker use in L2 English high-stakes essay writing.
 
 Citation:
 
