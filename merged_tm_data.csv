@@ -1,0 +1,986 @@
+,Filename,Score Level,Prompt,TM number,TM target,TM form,Function,F_Notes,Form Accuracy,FA_Notes,Semantics Accuracy,SA_Notes,Rater,Subset,NumWords,TotalTM
+0,107816,low,P6,1.0,In a word,In a word,Temporal,,1.0,,1.0,"not perhaps the most stylistically ideal, but semantically fine ",SM,post_IRR,163,1.0
+1,215276,low,P6,1.0,Although,Although,contrast,,1.0,,1.0,,SM,post_IRR,207,6.0
+2,215276,low,P6,2.0,Because,Because,causal,,1.0,,1.0,,SM,post_IRR,207,6.0
+3,215276,low,P6,3.0,Second,Second,temporal,,1.0,,1.0,,SM,post_IRR,207,6.0
+4,215276,low,P6,4.0,And,And,addition,,1.0,,1.0,,SM,post_IRR,207,6.0
+5,215276,low,P6,5.0,Third,Third,temporal,,1.0,,1.0,,SM,post_IRR,207,6.0
+6,215276,low,P6,6.0,however,howerer,contrast,,0.0,spelling,1.0,,SM,post_IRR,207,6.0
+7,311063,low,P6,1.0,Although,Although,contrast,,1.0,,1.0,,SM,post_IRR,238,5.0
+8,311063,low,P6,2.0,In addition,In additional,addition,,0.0,collocation,1.0,,SM,post_IRR,238,5.0
+9,311063,low,P6,3.0,Because,Bescaus,causal,,0.0,spelling,0.0,causal meaning unclear,SM,post_IRR,238,5.0
+10,311063,low,P6,4.0,Lastly,Lastly,temporal,,1.0,,1.0,,SM,post_IRR,238,5.0
+11,311063,low,P6,5.0,And,And,addition,,1.0,,1.0,,SM,post_IRR,238,5.0
+12,371190,low,P6,1.0,so,so,causal,,1.0,,1.0,,SM,post_IRR,290,5.0
+13,371190,low,P6,2.0,however,however,contrast,,1.0,,1.0,,SM,post_IRR,290,5.0
+14,371190,low,P6,3.0,And,And,addition,,1.0,,0.0,not stylistically appropriate,SM,post_IRR,290,5.0
+15,371190,low,P6,4.0,Hence,Hence,causal,,1.0,,1.0,,SM,post_IRR,290,5.0
+16,371190,low,P6,5.0,thus,thus,causal,,1.0,,1.0,,SM,post_IRR,290,5.0
+17,735994,low,P6,1.0,Because,Because,causal,,1.0,,1.0,,SM,post_IRR,228,2.0
+18,735994,low,P6,2.0,In a word,In a word,temporal,,1.0,,1.0,keeps occurring!,SM,post_IRR,228,2.0
+19,761737,low,P6,1.0,First,First,temporal,,1.0,,1.0,,SM,post_IRR,167,5.0
+20,761737,low,P6,2.0,Also,Also,addition,,1.0,,1.0,,SM,post_IRR,167,5.0
+21,761737,low,P6,3.0,Finally,Finally,temporal,,1.0,,1.0,,SM,post_IRR,167,5.0
+22,761737,low,P6,4.0,And,And,addition,,1.0,,1.0,not very clear but fine,SM,post_IRR,167,5.0
+23,761737,low,P6,5.0,So,So,causal,,1.0,,1.0,stylistically not ideal,SM,post_IRR,167,5.0
+24,1143786,low,P6,1.0,and,and,addition,,1.0,,0.0,doesn't make sense,SM,post_IRR,171,2.0
+25,1143786,low,P6,2.0,Also,Also,addition,,1.0,,1.0,,SM,post_IRR,171,2.0
+26,102695,low,P7,1.0,First of all,First of all,temporal,,1.0,,1.0,,SM,post_IRR,180,6.0
+27,102695,low,P7,2.0,In contrast,In contrast,contrast,,1.0,,0.0,contrast doesn't make sense,SM,post_IRR,180,6.0
+28,102695,low,P7,3.0,Besides,Besides,addition,,1.0,,1.0,,SM,post_IRR,180,6.0
+29,102695,low,P7,4.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,180,6.0
+30,102695,low,P7,5.0,Last but not least,Last but not least,temporal,,1.0,,1.0,,SM,post_IRR,180,6.0
+31,102695,low,P7,6.0,In conclusion,In conclusion,temporal,,1.0,,1.0,,SM,post_IRR,180,6.0
+32,233980,low,P7,1.0,Because,Because,causal,,1.0,,1.0,,SM,post_IRR,250,6.0
+33,233980,low,P7,2.0,So,So,causal,,1.0,,0.0,doesn't make sense,SM,post_IRR,250,6.0
+34,233980,low,P7,3.0,First of all,First of all,temporal,,1.0,,1.0,,SM,post_IRR,250,6.0
+35,233980,low,P7,4.0,On the other hand,On the other side,contrast,,0.0,collocation,1.0,,SM,post_IRR,250,6.0
+36,233980,low,P7,5.0,So,So,causal,,1.0,,1.0,,SM,post_IRR,250,6.0
+37,233980,low,P7,6.0,Also,Also,addition,,1.0,,0.0,"concluding, not adding information",SM,post_IRR,250,6.0
+38,256147,low,P7,1.0,although,although,contrast,,1.0,,1.0,,SM,post_IRR,344,2.0
+39,256147,low,P7,2.0,so,so,causal,,1.0,,1.0,style issue,SM,post_IRR,344,2.0
+40,643139,low,P7,1.0,First of all,The first of all,temporal,,0.0,collocation,1.0,,SM,post_IRR,227,6.0
+41,643139,low,P7,2.0,Because,Because,causal,,1.0,,1.0,,SM,post_IRR,227,6.0
+42,643139,low,P7,3.0,Secondly,The second,temporal,,0.0,collocation,1.0,,SM,post_IRR,227,6.0
+43,643139,low,P7,4.0,Finally,Finally,temporal,,1.0,,1.0,,SM,post_IRR,227,6.0
+44,643139,low,P7,5.0,Because,Becaues,causal,,0.0,spelling,1.0,doesn't make a whole lot of sense but I see the function,SM,post_IRR,227,6.0
+45,643139,low,P7,6.0,But,But,contrast,,1.0,,1.0,,SM,post_IRR,227,6.0
+46,643139,low,P7,6.0,In conclusion,In the conlusion,temporal,,0.0,"collocation, spelling",1.0,,SM,post_IRR,227,6.0
+47,693133,low,P7,1.0,for example,for example,addition,,1.0,,1.0,,SM,post_IRR,373,6.0
+48,693133,low,P7,2.0,Third,Third,temporal,,1.0,,1.0,no second before,SM,post_IRR,373,6.0
+49,693133,low,P7,3.0,so,so,causal,,1.0,,1.0,,SM,post_IRR,373,6.0
+50,693133,low,P7,4.0,for example,for example,addition,,1.0,,1.0,,SM,post_IRR,373,6.0
+51,693133,low,P7,5.0,on the other hand,on the other hand,contrast,,1.0,,1.0,,SM,post_IRR,373,6.0
+52,693133,low,P7,6.0,so,so,causal,,1.0,,1.0,,SM,post_IRR,373,6.0
+53,1107311,low,P7,1.0,And,And,addition,,1.0,,1.0,doesn't make a lot of sense but I see the function,SM,post_IRR,355,7.0
+54,1107311,low,P7,2.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,355,7.0
+55,1107311,low,P7,3.0,So,So,causal,,1.0,,1.0,,SM,post_IRR,355,7.0
+56,1107311,low,P7,4.0,But,But,contrast,,1.0,,1.0,,SM,post_IRR,355,7.0
+57,1107311,low,P7,5.0,For example,For example,addition,,1.0,,0.0,not really an example,SM,post_IRR,355,7.0
+58,1107311,low,P7,6.0,For example,For example,addition,,1.0,,0.0,not really an example,SM,post_IRR,355,7.0
+59,1107311,low,P7,7.0,So,So,causal,,1.0,,1.0,could have better conclusion,SM,post_IRR,355,7.0
+60,1200966,low,P7,1.0,First of all,First of all,temporal,,1.0,,1.0,,SM,post_IRR,175,4.0
+61,1200966,low,P7,2.0,For instance,For instens,addition,,0.0,spelling,1.0,,SM,post_IRR,175,4.0
+62,1200966,low,P7,3.0,in the same way,in the same way,comparison,,1.0,,0.0,doesn't make sense here,SM,post_IRR,175,4.0
+63,1200966,low,P7,4.0,Although,Alouthgh,contrast,,0.0,spelling,0.0,meaning is unclear with 'but' further in sentence,SM,post_IRR,175,4.0
+64,156421,low,P8,,,,,,,,,,SM,post_IRR,156,
+65,214973,low,P8,1.0,Because,Because,causal,,1.0,,1.0,,SM,post_IRR,394,4.0
+66,214973,low,P8,2.0,But,But,contrast,,1.0,,1.0,,SM,post_IRR,394,4.0
+67,214973,low,P8,3.0,But,But,contrast,,1.0,,1.0,,SM,post_IRR,394,4.0
+68,214973,low,P8,4.0,Also,Also,addition,,1.0,,1.0,,SM,post_IRR,394,4.0
+69,339615,low,P8,1.0,Therefore,Therefore,causal,,1.0,,0.0,not causal relation,SM,post_IRR,278,5.0
+70,339615,low,P8,2.0,First,First,temporal,,1.0,,1.0,,SM,post_IRR,278,5.0
+71,339615,low,P8,3.0,However,However,contrast,,1.0,,1.0,,SM,post_IRR,278,5.0
+72,339615,low,P8,4.0,Therefore,Therefore,causal,,1.0,,1.0,,SM,post_IRR,278,5.0
+73,339615,low,P8,5.0,Finally,Finaly,temporal,,0.0,spelling,1.0,,SM,post_IRR,278,5.0
+74,342133,low,P8,1.0,Although,Although,contrast,,1.0,,1.0,,SM,post_IRR,305,4.0
+75,342133,low,P8,2.0,Since,Since,causal,,1.0,,0.0,doesn't make sense,SM,post_IRR,305,4.0
+76,342133,low,P8,3.0,But,But,contrast,,1.0,,1.0,,SM,post_IRR,305,4.0
+77,342133,low,P8,4.0,All in all,All in all,temporal,,1.0,,1.0,,SM,post_IRR,305,4.0
+78,377202,low,P8,1.0,Firstly,Firstly,temporal,,1.0,,1.0,,SM,post_IRR,308,5.0
+79,377202,low,P8,2.0,Because,Because,causal,,1.0,,1.0,,SM,post_IRR,308,5.0
+80,377202,low,P8,3.0,Secondly,Secondly,temporal,,1.0,,1.0,,SM,post_IRR,308,5.0
+81,377202,low,P8,4.0,So,So,causal,,1.0,,1.0,,SM,post_IRR,308,5.0
+82,377202,low,P8,5.0,Last but not least,Last but not least,temporal,,1.0,,1.0,,SM,post_IRR,308,5.0
+83,580944,low,P8,1.0,First of all,First of all,temporal,,1.0,,1.0,,SM,post_IRR,231,6.0
+84,580944,low,P8,2.0,For instance,For instance,addition,,1.0,,1.0,,SM,post_IRR,231,6.0
+85,580944,low,P8,3.0,In addition,In addition,addition,,1.0,,1.0,,SM,post_IRR,231,6.0
+86,580944,low,P8,4.0,Finally,Finally,temporal,,1.0,,1.0,,SM,post_IRR,231,6.0
+87,580944,low,P8,5.0,To sum up,To sum up,temporal,,1.0,,1.0,,SM,post_IRR,231,6.0
+88,580944,low,P8,6.0,Because,Because,causal,,1.0,,1.0,stylistically not appropriate,SM,post_IRR,231,6.0
+89,580962,low,P8,1.0,First,First,temporal,,1.0,,1.0,,SM,post_IRR,213,3.0
+90,580962,low,P8,2.0,Second,Second,temporal,,1.0,,1.0,,SM,post_IRR,213,3.0
+91,580962,low,P8,3.0,Finally,Finally,temporal,,1.0,,1.0,,SM,post_IRR,213,3.0
+92,96442,medium,P6,1.0,Furthermore,Furthermore,addition,,1.0,,1.0,,SM,post_IRR,312,6.0
+93,96442,medium,P6,2.0,And,And,addition,,1.0,,1.0,,SM,post_IRR,312,6.0
+94,96442,medium,P6,3.0,Because,Because,causal,,1.0,,1.0,,SM,post_IRR,312,6.0
+95,96442,medium,P6,4.0,Then,Then,causal,normally temporal but seems causal here,1.0,,1.0,sort of like thus,SM,post_IRR,312,6.0
+96,96442,medium,P6,5.0,And,And,addition,,1.0,,1.0,,SM,post_IRR,312,6.0
+97,96442,medium,P6,6.0,So,So,causal,,1.0,,1.0,,SM,post_IRR,312,6.0
+98,111230,medium,P6,1.0,First of all,First of all,temporal,,1.0,,1.0,,SM,post_IRR,342,9.0
+99,111230,medium,P6,2.0,So,So,causal,,1.0,,1.0,not easiest to understand,SM,post_IRR,342,9.0
+100,111230,medium,P6,3.0,Secondly,Secondly,temporal,,1.0,,1.0,,SM,post_IRR,342,9.0
+101,111230,medium,P6,4.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,342,9.0
+102,111230,medium,P6,5.0,But,But,contrast,,1.0,,1.0,,SM,post_IRR,342,9.0
+103,111230,medium,P6,6.0,Last but not least,Last but not least,temporal,,1.0,,1.0,,SM,post_IRR,342,9.0
+104,111230,medium,P6,7.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,342,9.0
+105,111230,medium,P6,8.0,On the other hand,In the other hand,contrast,,0.0,collocation,1.0,,SM,post_IRR,342,9.0
+106,111230,medium,P6,9.0,In conclusion,In conclusion,temporal,,1.0,,1.0,,SM,post_IRR,342,9.0
+107,129159,medium,P6,1.0,And,And,addition,,1.0,,1.0,,SM,post_IRR,379,7.0
+108,129159,medium,P6,2.0,But,But,contrast,,1.0,,1.0,,SM,post_IRR,379,7.0
+109,129159,medium,P6,3.0,thus,thus,causal,,1.0,,1.0,,SM,post_IRR,379,7.0
+110,129159,medium,P6,4.0,hence,hence,causal,,1.0,,1.0,,SM,post_IRR,379,7.0
+111,129159,medium,P6,5.0,First of all,First of all,temporal,,1.0,,1.0,,SM,post_IRR,379,7.0
+112,129159,medium,P6,6.0,What's more,What's more,addition,,1.0,,1.0,,SM,post_IRR,379,7.0
+113,129159,medium,P6,7.0,Therefore,Therefore,causal,,1.0,,1.0,,SM,post_IRR,379,7.0
+114,139592,medium,P6,1.0,But,But,contrast,,1.0,,1.0,,SM,post_IRR,356,5.0
+115,139592,medium,P6,2.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,356,5.0
+116,139592,medium,P6,3.0,Furthermore,Furthermore,addition,,1.0,,1.0,,SM,post_IRR,356,5.0
+117,139592,medium,P6,4.0,So,So,causal,,1.0,,1.0,stylistically not ideal,SM,post_IRR,356,5.0
+118,139592,medium,P6,5.0,In a word,In a word,temporal,,1.0,,1.0,,SM,post_IRR,356,5.0
+119,155456,medium,P6,1.0,Although,Although,contrast,,1.0,,0.0,nothing contrasted in sentence,SM,post_IRR,313,8.0
+120,155456,medium,P6,2.0,First of all,First of all,temporal,,1.0,,1.0,,SM,post_IRR,313,8.0
+121,155456,medium,P6,3.0,And,And,addition,,1.0,,1.0,,SM,post_IRR,313,8.0
+122,155456,medium,P6,4.0,Second,Second,temporal,,1.0,,1.0,,SM,post_IRR,313,8.0
+123,155456,medium,P6,5.0,Last but not least,Last but not least,temporal,,1.0,,1.0,,SM,post_IRR,313,8.0
+124,155456,medium,P6,6.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,313,8.0
+125,155456,medium,P6,7.0,However,However,contrast,,1.0,,1.0,barely accurate,SM,post_IRR,313,8.0
+126,155456,medium,P6,8.0,In conclusion,In conclusion,temporal,,1.0,,1.0,,SM,post_IRR,313,8.0
+127,174779,medium,P6,1.0,In addition,In addition,addition,,1.0,,0.0,not adding another argument,SM,post_IRR,226,7.0
+128,174779,medium,P6,2.0,First of all,First of all,temporal,,1.0,,1.0,,SM,post_IRR,226,7.0
+129,174779,medium,P6,3.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,226,7.0
+130,174779,medium,P6,4.0,However,However,contrast,,1.0,,1.0,,SM,post_IRR,226,7.0
+131,174779,medium,P6,5.0,Therefore,Therefore,causal,,1.0,,1.0,,SM,post_IRR,226,7.0
+132,174779,medium,P6,6.0,Secondly,Secondly,temporal,,1.0,,1.0,,SM,post_IRR,226,7.0
+133,174779,medium,P6,7.0,To summarize,To summerize,temporal,,0.0,spelling,1.0,,SM,post_IRR,226,7.0
+134,195844,medium,P6,1.0,firstly,firstly,temporal,,1.0,,1.0,,SM,post_IRR,382,11.0
+135,195844,medium,P6,2.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,382,11.0
+136,195844,medium,P6,3.0,Because,Because,causal,,1.0,,0.0,doesn't make sense,SM,post_IRR,382,11.0
+137,195844,medium,P6,4.0,Secondly,Secondly,temporal,,1.0,,1.0,,SM,post_IRR,382,11.0
+138,195844,medium,P6,5.0,But,But,contrast,,1.0,,1.0,,SM,post_IRR,382,11.0
+139,195844,medium,P6,6.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,382,11.0
+140,195844,medium,P6,7.0,On the other hand,On the other hand,contrast,,1.0,,1.0,,SM,post_IRR,382,11.0
+141,195844,medium,P6,8.0,Thirdly,Thirdly,temporal,,1.0,,1.0,,SM,post_IRR,382,11.0
+142,195844,medium,P6,9.0,And,And,addition,,1.0,,1.0,,SM,post_IRR,382,11.0
+143,195844,medium,P6,10.0,Last but not least,Last but not the least,temporal,,0.0,collocation,1.0,,SM,post_IRR,382,11.0
+144,195844,medium,P6,11.0,In sum,In sum,temporal,,1.0,,1.0,,SM,post_IRR,382,11.0
+145,3323,medium,P7,1.0,and,and,addition,,1.0,,1.0,,SM,post_IRR,349,9.0
+146,3323,medium,P7,2.0,for example,for example,addition,,1.0,,1.0,,SM,post_IRR,349,9.0
+147,3323,medium,P7,3.0,however,however,contrast,,1.0,,1.0,awkward use,SM,post_IRR,349,9.0
+148,3323,medium,P7,4.0,because,because,causal,,1.0,,1.0,,SM,post_IRR,349,9.0
+149,3323,medium,P7,5.0,nevertheless,nevertheless,contrast,,1.0,,0.0,"adding to argument, not contrasting",SM,post_IRR,349,9.0
+150,3323,medium,P7,6.0,for example,for example,addition,,1.0,,1.0,,SM,post_IRR,349,9.0
+151,3323,medium,P7,7.0,however,however,contrast,,1.0,,1.0,,SM,post_IRR,349,9.0
+152,3323,medium,P7,8.0,however,however,contrast,,1.0,,1.0,,SM,post_IRR,349,9.0
+153,3323,medium,P7,9.0,therefore,therefore,causal,,1.0,,1.0,,SM,post_IRR,349,9.0
+154,8966,medium,P7,1.0,First,First,temporal,,1.0,,1.0,,SM,post_IRR,309,7.0
+155,8966,medium,P7,2.0,Second,Sencond,temporal,,0.0,spelling,1.0,,SM,post_IRR,309,7.0
+156,8966,medium,P7,3.0,But,But,contrast,,1.0,,1.0,,SM,post_IRR,309,7.0
+157,8966,medium,P7,4.0,So,So,causal,,1.0,,1.0,,SM,post_IRR,309,7.0
+158,8966,medium,P7,5.0,Third,Third,temporal,,1.0,,1.0,,SM,post_IRR,309,7.0
+159,8966,medium,P7,6.0,And,And,addition,,1.0,,1.0,,SM,post_IRR,309,7.0
+160,8966,medium,P7,7.0,So,So,causal,,1.0,,1.0,,SM,post_IRR,309,7.0
+161,10535,medium,P7,1.0,Although,Although,contrast,,1.0,,1.0,,SM,post_IRR,403,9.0
+162,10535,medium,P7,2.0,Therefore,Therefore,causal,,1.0,,1.0,,SM,post_IRR,403,9.0
+163,10535,medium,P7,3.0,What is more,What is more,addition,,1.0,,1.0,,SM,post_IRR,403,9.0
+164,10535,medium,P7,4.0,in other words,in other words,comparison,,1.0,,1.0,,SM,post_IRR,403,9.0
+165,10535,medium,P7,5.0,And,And,addition,,1.0,,1.0,,SM,post_IRR,403,9.0
+166,10535,medium,P7,6.0,Besides,Besides,addition,,1.0,,1.0,redundant because already have 'further' in sentence,SM,post_IRR,403,9.0
+167,10535,medium,P7,7.0,Finally,Finally,temporal,,1.0,,1.0,,SM,post_IRR,403,9.0
+168,10535,medium,P7,8.0,Because,Because,causal,,1.0,,1.0,,SM,post_IRR,403,9.0
+169,10535,medium,P7,9.0,In contrast,In contrast,contrast,,1.0,,1.0,,SM,post_IRR,403,9.0
+170,10670,medium,P7,1.0,Furthermore,Furthermore,addition,,1.0,,1.0,,SM,post_IRR,354,8.0
+171,10670,medium,P7,2.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,354,8.0
+172,10670,medium,P7,3.0,Then,Then,temporal,,1.0,,1.0,,SM,post_IRR,354,8.0
+173,10670,medium,P7,4.0,For instance,For instance,addition,,1.0,,1.0,,SM,post_IRR,354,8.0
+174,10670,medium,P7,5.0,Therefore,Therefore,causal,,1.0,,1.0,,SM,post_IRR,354,8.0
+175,10670,medium,P7,6.0,Moreover,Moreover,addition,,1.0,,1.0,,SM,post_IRR,354,8.0
+176,10670,medium,P7,7.0,Then,Then,temporal,,1.0,,1.0,,SM,post_IRR,354,8.0
+177,10670,medium,P7,8.0,On the whole,On the whole,temporal,,1.0,,1.0,,SM,post_IRR,354,8.0
+178,24427,medium,P7,1.0,Therefore,Therefore,causal,,1.0,,1.0,,SM,post_IRR,343,8.0
+179,24427,medium,P7,2.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,343,8.0
+180,24427,medium,P7,3.0,Moreover,Moreover,addition,,1.0,,1.0,,SM,post_IRR,343,8.0
+181,24427,medium,P7,4.0,Therefore,Therefore,causal,,1.0,,1.0,,SM,post_IRR,343,8.0
+182,24427,medium,P7,5.0,In contrast,In contrast,contrast,,1.0,,0.0,not clear what contrasting,SM,post_IRR,343,8.0
+183,24427,medium,P7,6.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,343,8.0
+184,24427,medium,P7,7.0,Of course,Of course,comparison,,1.0,,1.0,,SM,post_IRR,343,8.0
+185,24427,medium,P7,8.0,Therefore,Therefore,causal,,1.0,,1.0,,SM,post_IRR,343,8.0
+186,36300,medium,P7,1.0,Therefore,Therefore,causal,,1.0,,1.0,,SM,post_IRR,251,8.0
+187,36300,medium,P7,2.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,251,8.0
+188,36300,medium,P7,3.0,Also,Also,addition,,1.0,,1.0,,SM,post_IRR,251,8.0
+189,36300,medium,P7,4.0,Therefore,Therefore,causal,,1.0,,1.0,,SM,post_IRR,251,8.0
+190,36300,medium,P7,5.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,251,8.0
+191,36300,medium,P7,6.0,Therefore,Therefore,causal,,1.0,,1.0,,SM,post_IRR,251,8.0
+192,36300,medium,P7,7.0,Also,Also,addition,,1.0,,1.0,,SM,post_IRR,251,8.0
+193,36300,medium,P7,8.0,In conclusion,In conclusion,temporal,,1.0,,1.0,,SM,post_IRR,251,8.0
+194,73212,medium,P7,1.0,Therefore,Therefore,causal,,1.0,,1.0,,SM,post_IRR,323,2.0
+195,73212,medium,P7,2.0,However,However,contrast,,1.0,,1.0,in contrast would probably be better here,SM,post_IRR,323,2.0
+196,33102,medium,P8,,,,,,,,,,SM,post_IRR,202,
+197,34393,medium,P8,1.0,So,So,causal,,1.0,,0.0,no real causal relation,SM,post_IRR,287,4.0
+198,34393,medium,P8,2.0,But,But,contrast,,1.0,,1.0,,SM,post_IRR,287,4.0
+199,34393,medium,P8,3.0,So,So,causal,,1.0,,1.0,ambiguous,SM,post_IRR,287,4.0
+200,34393,medium,P8,4.0,And,And,addition,,1.0,,1.0,,SM,post_IRR,287,4.0
+201,79442,medium,P8,1.0,Finally,Finally,temporal,,1.0,,1.0,,SM,post_IRR,313,5.0
+202,79442,medium,P8,2.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,313,5.0
+203,79442,medium,P8,3.0,On one hand,On one hand,comparison,,1.0,,1.0,,SM,post_IRR,313,5.0
+204,79442,medium,P8,4.0,On the other hand,On the other hand,contrast,,1.0,,1.0,,SM,post_IRR,313,5.0
+205,79442,medium,P8,5.0,So,So,causal,,1.0,,1.0,,SM,post_IRR,313,5.0
+206,81507,medium,P8,1.0,However,However,contrast,,1.0,,1.0,,SM,post_IRR,470,11.0
+207,81507,medium,P8,2.0,First of all,First of all,temporal,,1.0,,1.0,,SM,post_IRR,470,11.0
+208,81507,medium,P8,3.0,For instance,For instance,addition,,1.0,,1.0,,SM,post_IRR,470,11.0
+209,81507,medium,P8,4.0,Yet,Yet,contrast,,1.0,,1.0,,SM,post_IRR,470,11.0
+210,81507,medium,P8,5.0,Although,Although,contrast,,1.0,,1.0,,SM,post_IRR,470,11.0
+211,81507,medium,P8,6.0,So,So,causal,,1.0,,1.0,,SM,post_IRR,470,11.0
+212,81507,medium,P8,7.0,In addition,In addition,addition,,1.0,,1.0,,SM,post_IRR,470,11.0
+213,81507,medium,P8,8.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,470,11.0
+214,81507,medium,P8,9.0,further,further,addition,,1.0,,1.0,,SM,post_IRR,470,11.0
+215,81507,medium,P8,10.0,Finally,Finally,temporal,,1.0,,1.0,,SM,post_IRR,470,11.0
+216,81507,medium,P8,11.0,Hence,Hence,causal,,1.0,,1.0,,SM,post_IRR,470,11.0
+217,82993,medium,P8,1.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,321,4.0
+218,82993,medium,P8,2.0,however,however,contrast,,1.0,,1.0,,SM,post_IRR,321,4.0
+219,82993,medium,P8,3.0,Although,Although,contrast,,1.0,,1.0,,SM,post_IRR,321,4.0
+220,82993,medium,P8,4.0,however,however,contrast,,1.0,,1.0,,SM,post_IRR,321,4.0
+221,106584,medium,P8,1.0,But,But,contrast,,1.0,,1.0,,SM,post_IRR,319,3.0
+222,106584,medium,P8,2.0,But,But,contrast,,1.0,,1.0,,SM,post_IRR,319,3.0
+223,106584,medium,P8,3.0,But,But,contrast,,1.0,,1.0,,SM,post_IRR,319,3.0
+224,153137,medium,P8,1.0,First of all,First of all,temporal,,1.0,,1.0,,SM,post_IRR,317,10.0
+225,153137,medium,P8,2.0,Even though,Eventhough,contrast,,0.0,spelling,1.0,,SM,post_IRR,317,10.0
+226,153137,medium,P8,3.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,317,10.0
+227,153137,medium,P8,4.0,Even though,Eventhough,contrast,,0.0,spelling,1.0,,SM,post_IRR,317,10.0
+228,153137,medium,P8,5.0,And,And,addition,,1.0,,1.0,,SM,post_IRR,317,10.0
+229,153137,medium,P8,6.0,Second,Second,temporal,,1.0,,1.0,,SM,post_IRR,317,10.0
+230,153137,medium,P8,7.0,Since,Since,causal,,1.0,,1.0,,SM,post_IRR,317,10.0
+231,153137,medium,P8,8.0,Third,Third,temporal,,1.0,,1.0,,SM,post_IRR,317,10.0
+232,153137,medium,P8,9.0,on the other hand,on the other hand,contrast,,1.0,,1.0,,SM,post_IRR,317,10.0
+233,153137,medium,P8,10.0,Because,Because,causal,,1.0,,1.0,,SM,post_IRR,317,10.0
+234,110423,high,P6,1.0,Since,Since,causal,,1.0,,1.0,,SM,post_IRR,483,17.0
+235,110423,high,P6,2.0,First,First,temporal,,1.0,,1.0,,SM,post_IRR,483,17.0
+236,110423,high,P6,3.0,Although,Although,contrast,,1.0,,1.0,,SM,post_IRR,483,17.0
+237,110423,high,P6,4.0,For instance,For instance,addition,,1.0,,1.0,,SM,post_IRR,483,17.0
+238,110423,high,P6,5.0,However,However,contrast,,1.0,,1.0,,SM,post_IRR,483,17.0
+239,110423,high,P6,6.0,Thus,Thus,causal,,1.0,,1.0,,SM,post_IRR,483,17.0
+240,110423,high,P6,7.0,Also,Also,addition,,1.0,,1.0,,SM,post_IRR,483,17.0
+241,110423,high,P6,8.0,Thus,Thus,causal,,1.0,,1.0,,SM,post_IRR,483,17.0
+242,110423,high,P6,9.0,For instance,For instance,addition,,1.0,,1.0,,SM,post_IRR,483,17.0
+243,110423,high,P6,10.0,However,However,contrast,,1.0,,1.0,,SM,post_IRR,483,17.0
+244,110423,high,P6,11.0,Thus,Thus,causal,,1.0,,1.0,,SM,post_IRR,483,17.0
+245,110423,high,P6,12.0,Finally,Finally,temporal,,1.0,,1.0,,SM,post_IRR,483,17.0
+246,110423,high,P6,13.0,Since,Since,causal,,1.0,,1.0,,SM,post_IRR,483,17.0
+247,110423,high,P6,14.0,Also,Also,addition,,1.0,,1.0,,SM,post_IRR,483,17.0
+248,110423,high,P6,15.0,For instance,For instance,addition,,1.0,,1.0,,SM,post_IRR,483,17.0
+249,110423,high,P6,16.0,Hence,Hence,causal,,1.0,,1.0,,SM,post_IRR,483,17.0
+250,110423,high,P6,17.0,Thus,Thus,causal,,1.0,,1.0,,SM,post_IRR,483,17.0
+251,122043,high,P6,1.0,Though,Though,contrast,,1.0,,1.0,,SM,post_IRR,327,6.0
+252,122043,high,P6,2.0,First,In my first place,temporal,,0.0,collocation,1.0,,SM,post_IRR,327,6.0
+253,122043,high,P6,3.0,For instance,For instance,addition,,1.0,,1.0,,SM,post_IRR,327,6.0
+254,122043,high,P6,4.0,Finally,Finally,temporal,,1.0,,1.0,,SM,post_IRR,327,6.0
+255,122043,high,P6,5.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,327,6.0
+256,122043,high,P6,6.0,To conclude,To conclude,temporal,,1.0,,1.0,,SM,post_IRR,327,6.0
+257,139743,high,P6,1.0,As a matter of fact,As matter of fact,addition,,0.0,collocation,1.0,strange opening,SM,post_IRR,430,15.0
+258,139743,high,P6,2.0,First of all,First of all,temporal,,1.0,,1.0,,SM,post_IRR,430,15.0
+259,139743,high,P6,3.0,Because,Because,causal,,1.0,,1.0,,SM,post_IRR,430,15.0
+260,139743,high,P6,4.0,So,So,causal,,1.0,,1.0,,SM,post_IRR,430,15.0
+261,139743,high,P6,5.0,But,But,contrast,,1.0,,1.0,,SM,post_IRR,430,15.0
+262,139743,high,P6,6.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,430,15.0
+263,139743,high,P6,7.0,Secondly,Secondly,temporal,,1.0,,1.0,,SM,post_IRR,430,15.0
+264,139743,high,P6,8.0,But,But,contrast,,1.0,,1.0,,SM,post_IRR,430,15.0
+265,139743,high,P6,9.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,430,15.0
+266,139743,high,P6,10.0,Thus,Thus,causal,,1.0,,1.0,,SM,post_IRR,430,15.0
+267,139743,high,P6,11.0,Admittedly,Admittedly,contrast,,1.0,,1.0,,SM,post_IRR,430,15.0
+268,139743,high,P6,12.0,since,since,causal,,1.0,,1.0,,SM,post_IRR,430,15.0
+269,139743,high,P6,13.0,However,However,contrast,,1.0,,1.0,,SM,post_IRR,430,15.0
+270,139743,high,P6,14.0,So,So,causal,,1.0,,1.0,,SM,post_IRR,430,15.0
+271,139743,high,P6,15.0,To sum up,To sum up,temporal,,1.0,,1.0,,SM,post_IRR,430,15.0
+272,169720,high,P6,1.0,However,However,contrast,,1.0,,1.0,,SM,post_IRR,439,11.0
+273,169720,high,P6,2.0,While,While,contrast,,1.0,,1.0,,SM,post_IRR,439,11.0
+274,169720,high,P6,3.0,also,also,addition,,1.0,,1.0,,SM,post_IRR,439,11.0
+275,169720,high,P6,4.0,lastly,last,temporal,,0.0,morphological,1.0,,SM,post_IRR,439,11.0
+276,169720,high,P6,5.0,First of all,First in first,temporal,,0.0,collocation,1.0,,SM,post_IRR,439,11.0
+277,169720,high,P6,6.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,439,11.0
+278,169720,high,P6,7.0,Last but not least,Last but not the least,temporal,,0.0,collocation,1.0,,SM,post_IRR,439,11.0
+279,169720,high,P6,8.0,Thus,Thus,causal,,1.0,,1.0,,SM,post_IRR,439,11.0
+280,169720,high,P6,9.0,However,However,contrast,,1.0,,1.0,,SM,post_IRR,439,11.0
+281,169720,high,P6,10.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,439,11.0
+282,169720,high,P6,11.0,Also,Also,addition,,1.0,,1.0,,SM,post_IRR,439,11.0
+283,190711,high,P6,1.0,Firstly,Firstly,temporal,,1.0,,1.0,,SM,post_IRR,404,8.0
+284,190711,high,P6,2.0,So,So,causal,,1.0,,1.0,,SM,post_IRR,404,8.0
+285,190711,high,P6,3.0,Secondly,Secondly,temporal,,1.0,,1.0,,SM,post_IRR,404,8.0
+286,190711,high,P6,4.0,Also,Also,addition,,1.0,,1.0,,SM,post_IRR,404,8.0
+287,190711,high,P6,5.0,Since,Since,causal,,1.0,,1.0,,SM,post_IRR,404,8.0
+288,190711,high,P6,6.0,Therefore,Therfore,causal,,0.0,spelling,1.0,,SM,post_IRR,404,8.0
+289,190711,high,P6,7.0,In conclusion,In conclusion,temporal,,1.0,,1.0,,SM,post_IRR,404,8.0
+290,190711,high,P6,8.0,But,But,contrast,,1.0,,1.0,,SM,post_IRR,404,8.0
+291,203098,high,P6,,,,,,,,,,SM,post_IRR,384,
+292,256875,high,P6,1.0,So,So,causal,,1.0,,1.0,,SM,post_IRR,345,5.0
+293,256875,high,P6,2.0,Because,Because,causal,,1.0,,1.0,,SM,post_IRR,345,5.0
+294,256875,high,P6,3.0,However,However,contrast,,1.0,,1.0,,SM,post_IRR,345,5.0
+295,256875,high,P6,4.0,What is more,What is more,addition,,1.0,,1.0,,SM,post_IRR,345,5.0
+296,256875,high,P6,5.0,In addition,In addition,addition,,1.0,,1.0,,SM,post_IRR,345,5.0
+297,47814,high,P7,1.0,On the other hand,On the other hand,contrast,,1.0,,1.0,,SM,post_IRR,278,6.0
+298,47814,high,P7,2.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,278,6.0
+299,47814,high,P7,3.0,although,although,contrast,,1.0,,1.0,,SM,post_IRR,278,6.0
+300,47814,high,P7,4.0,In other words,In other words,addition,,1.0,,1.0,,SM,post_IRR,278,6.0
+301,47814,high,P7,5.0,To summarize,Tos ummarize,temporal,,0.0,spelling,1.0,,SM,post_IRR,278,6.0
+302,47814,high,P7,6.0,however,however,contrast,,1.0,,1.0,,SM,post_IRR,278,6.0
+303,60162,high,P7,1.0,On one hand,On the one hand,comparison,,0.0,collocation,1.0,,SM,post_IRR,486,8.0
+304,60162,high,P7,2.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,486,8.0
+305,60162,high,P7,3.0,Also,Also,addition,,1.0,,1.0,,SM,post_IRR,486,8.0
+306,60162,high,P7,4.0,On the other hand,On the other hand,contrast,,1.0,,1.0,,SM,post_IRR,486,8.0
+307,60162,high,P7,5.0,In other words,In other words,addition,,1.0,,1.0,,SM,post_IRR,486,8.0
+308,60162,high,P7,6.0,For instance,For instance,addition,,1.0,,1.0,,SM,post_IRR,486,8.0
+309,60162,high,P7,7.0,Thus,Thus,causal,,1.0,,1.0,,SM,post_IRR,486,8.0
+310,60162,high,P7,8.0,To sum up,To sum up,temporal,,1.0,,1.0,,SM,post_IRR,486,8.0
+311,81437,high,P7,1.0,First of all,First of all,temporal,,1.0,,1.0,,SM,post_IRR,444,4.0
+312,81437,high,P7,2.0,Secondly,Secondly,temporal,,1.0,,1.0,,SM,post_IRR,444,4.0
+313,81437,high,P7,3.0,Last but not least,Last but not the least,temporal,,0.0,collocation,1.0,,SM,post_IRR,444,4.0
+314,81437,high,P7,4.0,Therefore,Therefore,causal,,1.0,,1.0,,SM,post_IRR,444,4.0
+315,224597,high,P7,1.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,315,3.0
+316,224597,high,P7,2.0,Consequently,Consequently,causal,,1.0,,1.0,,SM,post_IRR,315,3.0
+317,224597,high,P7,3.0,However,However,contrast,,1.0,,1.0,,SM,post_IRR,315,3.0
+318,231403,high,P7,1.0,However,However,contrast,,1.0,,1.0,,SM,post_IRR,330,7.0
+319,231403,high,P7,2.0,Therefore,Therefore,causal,,1.0,,1.0,,SM,post_IRR,330,7.0
+320,231403,high,P7,3.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,330,7.0
+321,231403,high,P7,4.0,Therefore,Therefore,causal,,1.0,,1.0,,SM,post_IRR,330,7.0
+322,231403,high,P7,5.0,Moreover,Moreover,addition,,1.0,,1.0,,SM,post_IRR,330,7.0
+323,231403,high,P7,6.0,In other words,In other words,addition,,1.0,,1.0,,SM,post_IRR,330,7.0
+324,231403,high,P7,7.0,in conclusion,in conclusion,temporal,,1.0,,1.0,,SM,post_IRR,330,7.0
+325,241042,high,P7,1.0,Thus,Thus,causal,,1.0,,1.0,,SM,post_IRR,327,6.0
+326,241042,high,P7,2.0,Since,Since,causal,,1.0,,1.0,,SM,post_IRR,327,6.0
+327,241042,high,P7,3.0,Finally,Finally,temporal,,1.0,,1.0,,SM,post_IRR,327,6.0
+328,241042,high,P7,4.0,However,However,contrast,,1.0,,1.0,,SM,post_IRR,327,6.0
+329,241042,high,P7,5.0,Thus,Thus,causal,,1.0,,1.0,,SM,post_IRR,327,6.0
+330,241042,high,P7,6.0,In conclusion,In conclusion,temporal,,1.0,,1.0,,SM,post_IRR,327,6.0
+331,339490,high,P7,1.0,Therefore,Therefore,causal,,1.0,,1.0,,SM,post_IRR,320,2.0
+332,339490,high,P7,2.0,In a nutshell,As a nutshell,temporal,,0.0,collocation,1.0,,SM,post_IRR,320,2.0
+333,70661,high,P8,1.0,To begin with,To begin with,temporal,,1.0,,1.0,,SM,post_IRR,343,9.0
+334,70661,high,P8,2.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,343,9.0
+335,70661,high,P8,3.0,However,However,contrast,,1.0,,1.0,,SM,post_IRR,343,9.0
+336,70661,high,P8,4.0,In addition,In addition,addition,,1.0,,1.0,,SM,post_IRR,343,9.0
+337,70661,high,P8,5.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,343,9.0
+338,70661,high,P8,6.0,although,although,contrast,,1.0,,1.0,,SM,post_IRR,343,9.0
+339,70661,high,P8,7.0,However,However,contrast,,1.0,,1.0,,SM,post_IRR,343,9.0
+340,70661,high,P8,8.0,To sum up,To sum up,temporal,,1.0,,1.0,,SM,post_IRR,343,9.0
+341,70661,high,P8,9.0,However,However,contrast,,1.0,,1.0,,SM,post_IRR,343,9.0
+342,105061,high,P8,1.0,Firstly,Firstly,temporal,,1.0,,1.0,,SM,post_IRR,344,7.0
+343,105061,high,P8,2.0,So,So,causal,,1.0,,1.0,,SM,post_IRR,344,7.0
+344,105061,high,P8,3.0,So,So,causal,,1.0,,1.0,not ideal,SM,post_IRR,344,7.0
+345,105061,high,P8,4.0,Secondly,Secondly,temporal,,1.0,,1.0,,SM,post_IRR,344,7.0
+346,105061,high,P8,5.0,Then,Then,temporal,,1.0,,1.0,,SM,post_IRR,344,7.0
+347,105061,high,P8,6.0,Finally,Finally,temporal,,1.0,,1.0,,SM,post_IRR,344,7.0
+348,105061,high,P8,7.0,On the contrary,On the contrary,contrast,,1.0,,1.0,,SM,post_IRR,344,7.0
+349,164537,high,P8,1.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,448,4.0
+350,164537,high,P8,2.0,First of all,First of all,temporal,,1.0,,0.0,not first in a sequence,SM,post_IRR,448,4.0
+351,164537,high,P8,3.0,But,But,contrast,,1.0,,1.0,,SM,post_IRR,448,4.0
+352,164537,high,P8,4.0,But,But,contrast,,1.0,,1.0,,SM,post_IRR,448,4.0
+353,279212,high,P8,1.0,however,however,contrast,,1.0,,1.0,,SM,post_IRR,305,7.0
+354,279212,high,P8,2.0,Firstly,Firstly,temporal,,1.0,,1.0,,SM,post_IRR,305,7.0
+355,279212,high,P8,3.0,So,So,causal,,1.0,,1.0,,SM,post_IRR,305,7.0
+356,279212,high,P8,4.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,305,7.0
+357,279212,high,P8,5.0,Because,Because,causal,,1.0,,1.0,,SM,post_IRR,305,7.0
+358,279212,high,P8,6.0,Thus,Thus,causal,,1.0,,1.0,,SM,post_IRR,305,7.0
+359,279212,high,P8,7.0,In contrast,In contrary,contrast,,0.0,spelling,1.0,,SM,post_IRR,305,7.0
+360,432857,high,P8,1.0,In conclusion,In conclusion,temporal,,1.0,,1.0,,SM,post_IRR,394,1.0
+361,456037,high,P8,1.0,although,although,contrast,,1.0,,1.0,,SM,post_IRR,478,2.0
+362,456037,high,P8,2.0,First,First,temporal,,1.0,,1.0,,SM,post_IRR,478,2.0
+363,1010664,high,P8,1.0,Firstly,Firstly,temporal,,1.0,,1.0,,SM,post_IRR,321,3.0
+364,1010664,high,P8,2.0,However,However,contrast,,1.0,,1.0,,SM,post_IRR,321,3.0
+365,1010664,high,P8,3.0,Secondly,Secondly,temporal,,1.0,,1.0,,SM,post_IRR,321,3.0
+366,382123,high,P1,1.0,However,However,contrast,,1.0,,1.0,,SM,post_IRR,314,8.0
+367,382123,high,P1,2.0,First,First,temporal,,1.0,,1.0,,SM,post_IRR,314,8.0
+368,382123,high,P1,3.0,On the other hand,On the other hand,contrast,,1.0,,1.0,,SM,post_IRR,314,8.0
+369,382123,high,P1,4.0,In addition,In addition,addition,,1.0,,1.0,,SM,post_IRR,314,8.0
+370,382123,high,P1,5.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,314,8.0
+371,382123,high,P1,6.0,Last but not least,Last but not least,temporal,,1.0,,1.0,,SM,post_IRR,314,8.0
+372,382123,high,P1,7.0,For example,For example,addition,,1.0,,1.0,,SM,post_IRR,314,8.0
+373,382123,high,P1,8.0,To conclude,To conclude,temporal,,1.0,,1.0,,SM,post_IRR,314,8.0
+374,167685,high,P2,1.0,Hence,Hence,causal,,1.0,,1.0,,SM,post_IRR,325,6.0
+375,167685,high,P2,2.0,First of all,First of all,temporal,,1.0,,1.0,,SM,post_IRR,325,6.0
+376,167685,high,P2,3.0,Secondly,Secondly,temporal,,1.0,,1.0,,SM,post_IRR,325,6.0
+377,167685,high,P2,4.0,Furthermore,Furthermore,addition,,1.0,,1.0,,SM,post_IRR,325,6.0
+378,167685,high,P2,5.0,So,So,causal,,1.0,,1.0,,SM,post_IRR,325,6.0
+379,167685,high,P2,6.0,In conclusion,In conclusion,temporal,,1.0,,1.0,,SM,post_IRR,325,6.0
+380,209743,high,P2,1.0,First,First,temporal,,1.0,,1.0,,SM,post_IRR,339,5.0
+381,209743,high,P2,2.0,Second,Second,temporal,,1.0,,1.0,,SM,post_IRR,339,5.0
+382,209743,high,P2,3.0,But,But,contrast,,1.0,,1.0,,SM,post_IRR,339,5.0
+383,209743,high,P2,4.0,Therefore,Therefore,causal,,1.0,,1.0,,SM,post_IRR,339,5.0
+384,209743,high,P2,5.0,Last but not least,Last but not least,temporal,,1.0,,1.0,,SM,post_IRR,339,5.0
+385,598381,low,P1,1.0,For example,For example,Addition,,1.0,,1.0,,SM,IRR,184,3.0
+386,598381,low,P1,2.0,Of course,Of couse,Contrast,,0.0,spelling,1.0,,SM,IRR,184,3.0
+387,598381,low,P1,3.0,For example,For example,Addition,,1.0,,1.0,,SM,IRR,184,3.0
+388,598747,low,P1,1.0,First of all,First of all,Temporal,,1.0,,1.0,,SM,IRR,289,7.0
+389,598747,low,P1,2.0,therefore,therefore,Causal,,1.0,,1.0,,SM,IRR,289,7.0
+390,598747,low,P1,3.0,therefore,therefore,Causal,,1.0,,1.0,,SM,IRR,289,7.0
+391,598747,low,P1,4.0,For example,For example,Addition,,1.0,,1.0,,SM,IRR,289,7.0
+392,598747,low,P1,5.0,Finally,Finally,Temporal,,1.0,,1.0,,SM,IRR,289,7.0
+393,598747,low,P1,6.0,therefore,therefore,Causal,,1.0,,1.0,,SM,IRR,289,7.0
+394,598747,low,P1,7.0,But,But,Contrast,,1.0,,1.0,,SM,IRR,289,7.0
+395,1459676,low,P1,1.0,so,so,Causal,,1.0,,1.0,,SM,IRR,270,5.0
+396,1459676,low,P1,2.0,however,however,Contrast,,1.0,,1.0,,SM,IRR,270,5.0
+397,1459676,low,P1,3.0,therefore,therefor,Causal,,0.0,spelling,1.0,,SM,IRR,270,5.0
+398,1459676,low,P1,4.0,however,however,Contrast,,1.0,,1.0,,SM,IRR,270,5.0
+399,1459676,low,P1,5.0,In conclusion,conclusion,Causal,,0.0,collocation,1.0,,SM,IRR,270,5.0
+400,1687301,low,P1,1.0,meanwhile,meanwhile,Contrast,,1.0,,1.0,,SM,IRR,294,6.0
+401,1687301,low,P1,2.0,for instance,for instance,Addition,,1.0,,1.0,,SM,IRR,294,6.0
+402,1687301,low,P1,3.0,For example,For example,Addition,,1.0,,1.0,,SM,IRR,294,6.0
+403,1687301,low,P1,4.0,however,however,Contrast,,1.0,,1.0,,SM,IRR,294,6.0
+404,1687301,low,P1,5.0,In a word,In a word,Temporal,"This is not on original list, but it is similar to 'in brief'",1.0,,1.0,,SM,IRR,294,6.0
+405,1687301,low,P1,6.0,So,So,Causal,,1.0,,1.0,,SM,IRR,294,6.0
+406,29905,low,P2,1.0,Because,Because,Causal,,1.0,,1.0,,SM,IRR,303,4.0
+407,29905,low,P2,2.0,In conclusion,In my conclusion,Causal,,0.0,collocation,1.0,,SM,IRR,303,4.0
+408,29905,low,P2,3.0,But,But,Contrast,,1.0,,1.0,,SM,IRR,303,4.0
+409,29905,low,P2,4.0,So,So,Causal,,1.0,,0.0,no clear causal relationship; would have benefited more from 'in sum',SM,IRR,303,4.0
+410,1013669,low,P2,1.0,also,also,Addition,,1.0,,1.0,,SM,IRR,226,1.0
+411,745867,low,P2,1.0,nevertheless,nevertheless,Contrast,,1.0,,0.0,The contrast doesn't make sense here,SM,IRR,222,5.0
+412,745867,low,P2,2.0,but,but,Contrast,,1.0,,0.0,Causal function might have been more appropriate here,SM,IRR,222,5.0
+413,745867,low,P2,3.0,so,so,Causal,,1.0,,1.0,somewhat ambiguous though,SM,IRR,222,5.0
+414,745867,low,P2,4.0,but,but,Contrast,,1.0,,0.0,Doesn't need contrast,SM,IRR,222,5.0
+415,745867,low,P2,5.0,however,however,Contrast,,1.0,,0.0,Should have something more like 'in sum'; unclear what contrasting,SM,IRR,222,5.0
+416,757460,low,P2,1.0,because,because,Causal,,1.0,,1.0,somewhat hard to understand,SM,IRR,172,4.0
+417,757460,low,P2,2.0,For example,For example,Addition,,1.0,,1.0,,SM,IRR,172,4.0
+418,757460,low,P2,3.0,so,so,Causal,,1.0,,1.0,,SM,IRR,172,4.0
+419,757460,low,P2,4.0,so,so,Causal,,1.0,,0.0,should have concluding TM; use here more characteristic of oral register,SM,IRR,172,4.0
+420,18690,medium,P1,1.0,But,But,Contrast,,1.0,,1.0,not the most target style but not semantically inappropriate,SM,IRR,327,8.0
+421,18690,medium,P1,2.0,For example,For example,Addition,,1.0,,1.0,,SM,IRR,327,8.0
+422,18690,medium,P1,3.0,Because,Because,Causal,,1.0,,1.0,,SM,IRR,327,8.0
+423,18690,medium,P1,4.0,So,So,Causal,,1.0,,1.0,,SM,IRR,327,8.0
+424,18690,medium,P1,5.0,Furthermore,Forthemore,Addition,,0.0,spelling,1.0,,SM,IRR,327,8.0
+425,18690,medium,P1,6.0,But,But,Contrast,,1.0,,1.0,,SM,IRR,327,8.0
+426,18690,medium,P1,7.0,Though,Though,Contrast,,1.0,,1.0,,SM,IRR,327,8.0
+427,18690,medium,P1,8.0,But,But,Contrast,,1.0,,1.0,,SM,IRR,327,8.0
+428,20376,medium,P1,1.0,Firstly,Firstly,Temporal,,1.0,,1.0,,SM,IRR,350,10.0
+429,20376,medium,P1,2.0,In fact,In fact,Addition,,1.0,,1.0,,SM,IRR,350,10.0
+430,20376,medium,P1,3.0,Secondly,Secondly,Temporal,,1.0,,1.0,,SM,IRR,350,10.0
+431,20376,medium,P1,4.0,On the other hand,On the other hand,Contrast,,1.0,,1.0,,SM,IRR,350,10.0
+432,20376,medium,P1,5.0,Finally,Finally,Temporal,,1.0,,1.0,kind of awkward usage,SM,IRR,350,10.0
+433,20376,medium,P1,6.0,In fact,In fact,Addition,,1.0,,1.0,,SM,IRR,350,10.0
+434,20376,medium,P1,7.0,However,However,Contrast,,1.0,,1.0,,SM,IRR,350,10.0
+435,20376,medium,P1,8.0,For example,For example,Addition,,1.0,,1.0,,SM,IRR,350,10.0
+436,20376,medium,P1,9.0,And also,And also,Addition,"register problem--appropriate in oral, not written, discourse",1.0,,1.0,,SM,IRR,350,10.0
+437,20376,medium,P1,10.0,But,But,Contrast,,1.0,,1.0,,SM,IRR,350,10.0
+438,43558,medium,P1,1.0,For example,For example,Addition,"lots of good use of alternating sentence structure in this essay, although few TMs",1.0,,1.0,,SM,IRR,250,2.0
+439,43558,medium,P1,2.0,However,However,Contrast,,1.0,,1.0,,SM,IRR,250,2.0
+440,46827,medium,P1,1.0,Besides,Besides,Addition,,1.0,,1.0,,SM,IRR,298,9.0
+441,46827,medium,P1,2.0,First of all,First of all,Temporal,,1.0,,1.0,,SM,IRR,298,9.0
+442,46827,medium,P1,3.0,For example,For example,Addition,,1.0,,1.0,,SM,IRR,298,9.0
+443,46827,medium,P1,4.0,As a result,As a result,Causal,,1.0,,1.0,,SM,IRR,298,9.0
+444,46827,medium,P1,5.0,Secondly,Secondly,Temporal,,1.0,,1.0,,SM,IRR,298,9.0
+445,46827,medium,P1,6.0,Therefore,Therefore,Causal,,1.0,,1.0,,SM,IRR,298,9.0
+446,46827,medium,P1,7.0,For example,For xample,Addition,,0.0,spelling,1.0,,SM,IRR,298,9.0
+447,46827,medium,P1,8.0,To sum up,To sum up,Temporal,,1.0,,1.0,,SM,IRR,298,9.0
+448,46827,medium,P1,9.0,In addition,In addition,Addition,,1.0,,1.0,,SM,IRR,298,9.0
+449,57757,medium,P1,1.0,Instead,Instead,Contrast,,1.0,,1.0,,SM,IRR,284,6.0
+450,57757,medium,P1,2.0,To begin with,To begin with,Temporal,not sure what target is,1.0,,1.0,,SM,IRR,284,6.0
+451,57757,medium,P1,3.0,But,But,Contrast,,1.0,,1.0,,SM,IRR,284,6.0
+452,57757,medium,P1,4.0,Finally,Finally,Temporal,,1.0,,1.0,,SM,IRR,284,6.0
+453,57757,medium,P1,5.0,And,And,Addition,,1.0,,0.0,Not clear why addition needed,SM,IRR,284,6.0
+454,57757,medium,P1,6.0,although,although,Contrast,,1.0,,1.0,,SM,IRR,284,6.0
+455,666,medium,P2,1.0,But,But,Contrast,,1.0,,1.0,,SM,IRR,347,11.0
+456,666,medium,P2,2.0,First of all,First of all,Temporal,,1.0,,1.0,,SM,IRR,347,11.0
+457,666,medium,P2,3.0,Instead,Instead,Contrast,,1.0,,1.0,,SM,IRR,347,11.0
+458,666,medium,P2,4.0,So,So,Causal,,1.0,,1.0,,SM,IRR,347,11.0
+459,666,medium,P2,5.0,But,But,Contrast,,1.0,,1.0,,SM,IRR,347,11.0
+460,666,medium,P2,6.0,Furthermore,Furthermore,Addition,,1.0,,1.0,,SM,IRR,347,11.0
+461,666,medium,P2,7.0,So,So,Causal,,1.0,,1.0,,SM,IRR,347,11.0
+462,666,medium,P2,8.0,Finally,Finally,Temporal,,1.0,,1.0,,SM,IRR,347,11.0
+463,666,medium,P2,9.0,But,But,Contrast,,1.0,,1.0,,SM,IRR,347,11.0
+464,666,medium,P2,10.0,So,So,Causal,,1.0,,1.0,,SM,IRR,347,11.0
+465,666,medium,P2,11.0,But,But,Contrast,,1.0,,1.0,,SM,IRR,347,11.0
+466,42600,medium,P2,1.0,Yet,Yet,Contrast,,1.0,,0.0,No clear contrast,SM,IRR,310,7.0
+467,42600,medium,P2,2.0,Therefore,Therefore,Causal,,1.0,,0.0,No clear cause,SM,IRR,310,7.0
+468,42600,medium,P2,3.0,Also,Also,Addition,,1.0,,1.0,,SM,IRR,310,7.0
+469,42600,medium,P2,4.0,Yet,Yet,Contrast,,1.0,,1.0,,SM,IRR,310,7.0
+470,42600,medium,P2,5.0,On the other hand,On the other hand,Contrast,,1.0,,1.0,,SM,IRR,310,7.0
+471,42600,medium,P2,6.0,But,But,Contrast,,1.0,,0.0,No clear contrast,SM,IRR,310,7.0
+472,42600,medium,P2,7.0,In conclusion,In conclusion,Causal,,1.0,,1.0,,SM,IRR,310,7.0
+473,73721,medium,P2,1.0,First,First,Temporal,,1.0,,1.0,,SM,IRR,323,6.0
+474,73721,medium,P2,2.0,For example,For example,Addition,,1.0,,1.0,,SM,IRR,323,6.0
+475,73721,medium,P2,3.0,but,but,Contrast,,1.0,,1.0,,SM,IRR,323,6.0
+476,73721,medium,P2,4.0,even though,even though,Contrast,,1.0,,1.0,,SM,IRR,323,6.0
+477,73721,medium,P2,5.0,Second,Second,Temporal,,1.0,,1.0,,SM,IRR,323,6.0
+478,73721,medium,P2,6.0,But,But,Contrast,,1.0,,1.0,,SM,IRR,323,6.0
+479,105404,medium,P2,1.0,So,So,Causal,,1.0,,0.0,doesn't make sense,SM,IRR,228,6.0
+480,105404,medium,P2,2.0,however,however,Contrast,,1.0,,1.0,,SM,IRR,228,6.0
+481,105404,medium,P2,3.0,Firstly,Firstly,Temporal,,1.0,,1.0,,SM,IRR,228,6.0
+482,105404,medium,P2,4.0,For example,For examlp,Addition,,0.0,spelling,1.0,,SM,IRR,228,6.0
+483,105404,medium,P2,5.0,In addition,In addition,Addition,,1.0,,1.0,,SM,IRR,228,6.0
+484,105404,medium,P2,6.0,Furthermore,Furthermore,Addition,,1.0,,1.0,,SM,IRR,228,6.0
+485,108367,medium,P2,1.0,While,While,Contrast,,1.0,,1.0,,SM,IRR,365,9.0
+486,108367,medium,P2,2.0,But,But,Contrast,,1.0,,1.0,,SM,IRR,365,9.0
+487,108367,medium,P2,3.0,First of all,First of all,Temporal,,1.0,,1.0,,SM,IRR,365,9.0
+488,108367,medium,P2,4.0,So,So,Causal,,1.0,,1.0,,SM,IRR,365,9.0
+489,108367,medium,P2,5.0,Secondly,Second lly,Temporal,,0.0,spelling,1.0,,SM,IRR,365,9.0
+490,108367,medium,P2,6.0,Additionally,Addtionally,Addition,,0.0,spelling,1.0,,SM,IRR,365,9.0
+491,108367,medium,P2,7.0,and,and,Addition,,1.0,,1.0,,SM,IRR,365,9.0
+492,108367,medium,P2,8.0,because,because,Causal,,1.0,,1.0,,SM,IRR,365,9.0
+493,108367,medium,P2,9.0,In sum,In a summit,Temporal,collocation messed up,0.0,collocation,1.0,,SM,IRR,365,9.0
+494,29959,high,P1,1.0,On the other hand,On the other hand,Contrast,,1.0,,1.0,,SM,IRR,351,6.0
+495,29959,high,P1,2.0,for example,for example,Addition,,1.0,,1.0,,SM,IRR,351,6.0
+496,29959,high,P1,3.0,But,But,Contrast,,1.0,,1.0,,SM,IRR,351,6.0
+497,29959,high,P1,4.0,And,And,Addition,,1.0,,1.0,,SM,IRR,351,6.0
+498,29959,high,P1,5.0,But,But,Contrast,,1.0,,1.0,,SM,IRR,351,6.0
+499,29959,high,P1,6.0,Although,Although,Contrast,,1.0,,1.0,,SM,IRR,351,6.0
+500,95789,high,P1,1.0,Furthermore,Further more,Addition,,0.0,spelling,1.0,,SM,IRR,320,3.0
+501,95789,high,P1,2.0,Meanwhile,Meanwhile,Contrast,,1.0,,1.0,,SM,IRR,320,3.0
+502,95789,high,P1,3.0,However,However,Contrast,,1.0,,1.0,,SM,IRR,320,3.0
+503,104966,high,P1,1.0,Firstly,Firstly,Temporal,,1.0,,1.0,,SM,IRR,442,15.0
+504,104966,high,P1,2.0,therefore,therefore,Causal,,1.0,,1.0,,SM,IRR,442,15.0
+505,104966,high,P1,3.0,Secondly,Secondly,Temporal,,1.0,,1.0,,SM,IRR,442,15.0
+506,104966,high,P1,4.0,therefore,therefore,Causal,,1.0,,1.0,,SM,IRR,442,15.0
+507,104966,high,P1,5.0,However,However,Contrast,,1.0,,1.0,,SM,IRR,442,15.0
+508,104966,high,P1,6.0,As a result,As a result,Causal,,1.0,,1.0,"not really a result, but is summarizing",SM,IRR,442,15.0
+509,104966,high,P1,7.0,Moreover,Moreover,Addition,,1.0,,1.0,,SM,IRR,442,15.0
+510,104966,high,P1,8.0,therefore,therefore,Causal,,1.0,,1.0,,SM,IRR,442,15.0
+511,104966,high,P1,9.0,therefore,therefore,Causal,,1.0,,1.0,,SM,IRR,442,15.0
+512,104966,high,P1,10.0,Since,Since,Causal,,1.0,,1.0,,SM,IRR,442,15.0
+513,104966,high,P1,11.0,Moreover,Moreover,Addition,,1.0,,1.0,,SM,IRR,442,15.0
+514,104966,high,P1,12.0,therefore,therefore,Causal,,1.0,,1.0,,SM,IRR,442,15.0
+515,104966,high,P1,13.0,For example,For example,Addition,,1.0,,1.0,,SM,IRR,442,15.0
+516,104966,high,P1,14.0,therefore,therefore,Causal,,1.0,,1.0,,SM,IRR,442,15.0
+517,104966,high,P1,15.0,In conclusion,In conclusion,Causal,,1.0,,1.0,,SM,IRR,442,15.0
+518,161127,high,P1,1.0,But,But,Contrast,,1.0,,1.0,,SM,IRR,347,5.0
+519,161127,high,P1,2.0,Because,Because,Causal,,1.0,,1.0,,SM,IRR,347,5.0
+520,161127,high,P1,3.0,On the other hand,In other hand,Contrast,,0.0,collocation,1.0,,SM,IRR,347,5.0
+521,161127,high,P1,4.0,In conclusion,To get the conclusion,Causal,,0.0,collocation,1.0,,SM,IRR,347,5.0
+522,161127,high,P1,5.0,But,But,Contrast,,1.0,,1.0,,SM,IRR,347,5.0
+523,326005,high,P1,1.0,However,However,Contrast,,1.0,,0.0,no clear contrast,SM,IRR,469,12.0
+524,326005,high,P1,2.0,First,First,Temporal,,1.0,,1.0,,SM,IRR,469,12.0
+525,326005,high,P1,3.0,in fact,in fact,Addition,,1.0,,0.0,redundant,SM,IRR,469,12.0
+526,326005,high,P1,4.0,And,And,Addition,,1.0,,1.0,,SM,IRR,469,12.0
+527,326005,high,P1,5.0,However,However,Contrast,,1.0,,1.0,,SM,IRR,469,12.0
+528,326005,high,P1,6.0,In fact,In fact,Addition,,1.0,,0.0,not presenting new factual information,SM,IRR,469,12.0
+529,326005,high,P1,7.0,As a result,As a result,Causal,,1.0,,1.0,,SM,IRR,469,12.0
+530,326005,high,P1,8.0,Second,Second,Temporal,secondly?,1.0,,1.0,,SM,IRR,469,12.0
+531,326005,high,P1,9.0,Consequently,Consequently,Causal,,1.0,,1.0,,SM,IRR,469,12.0
+532,326005,high,P1,10.0,for example,for example,Addition,,1.0,,1.0,,SM,IRR,469,12.0
+533,326005,high,P1,11.0,However,However,Contrast,,1.0,,1.0,,SM,IRR,469,12.0
+534,326005,high,P1,12.0,In sum,In sum,Temporal,,1.0,,1.0,,SM,IRR,469,12.0
+535,52951,high,P2,1.0,for example,for example,Addition,,1.0,,1.0,,SM,IRR,326,6.0
+536,52951,high,P2,2.0,Besides,Besides,Addition,,1.0,,1.0,more appropriate for oral register,SM,IRR,326,6.0
+537,52951,high,P2,3.0,What's more,What's more,Addition,,1.0,,1.0,,SM,IRR,326,6.0
+538,52951,high,P2,4.0,Last but not least,Last but not the least,Temporal,,0.0,collocation,1.0,,SM,IRR,326,6.0
+539,52951,high,P2,5.0,For example,For example,Addition,,1.0,,1.0,,SM,IRR,326,6.0
+540,52951,high,P2,6.0,In conclusion,In conclusion,Causal,,1.0,,1.0,,SM,IRR,326,6.0
+541,79224,high,P2,1.0,Since,Since,Causal,,1.0,,1.0,,SM,IRR,484,4.0
+542,79224,high,P2,2.0,instead,instead,Contrast,,1.0,,1.0,,SM,IRR,484,4.0
+543,79224,high,P2,3.0,also,also,Addition,,1.0,,1.0,,SM,IRR,484,4.0
+544,79224,high,P2,4.0,Because,Because,Causal,,1.0,,1.0,,SM,IRR,484,4.0
+545,103424,high,P2,1.0,In contrast,On the contrast,Contrast,,0.0,collocation,1.0,,SM,IRR,385,4.0
+546,103424,high,P2,2.0,Also,Also,Addition,,1.0,,1.0,,SM,IRR,385,4.0
+547,103424,high,P2,3.0,What is more,What is more,Addition,,1.0,,0.0,redundant with 'even',SM,IRR,385,4.0
+548,103424,high,P2,4.0,Of course,Of course,Comparison,,1.0,,1.0,,SM,IRR,385,4.0
+549,152801,high,P2,1.0,But,But,Contrast,,1.0,,1.0,,SM,IRR,534,8.0
+550,152801,high,P2,2.0,First,First,Temporal,,1.0,,1.0,,SM,IRR,534,8.0
+551,152801,high,P2,3.0,And,And,Addition,,1.0,,1.0,,SM,IRR,534,8.0
+552,152801,high,P2,4.0,So,So,Causal,,1.0,,1.0,,SM,IRR,534,8.0
+553,152801,high,P2,5.0,On the other hand,On the other hand,Contrast,,1.0,,1.0,,SM,IRR,534,8.0
+554,152801,high,P2,6.0,Although,Although,Contrast,,1.0,,1.0,,SM,IRR,534,8.0
+555,152801,high,P2,7.0,And,And,Addition,,1.0,,1.0,,SM,IRR,534,8.0
+556,152801,high,P2,8.0,Finally,Finally,Temporal,,1.0,,1.0,,SM,IRR,534,8.0
+557,154213,high,P2,1.0,But,But,Contrast,,1.0,,1.0,,SM,IRR,457,4.0
+558,154213,high,P2,2.0,And,And,Addition,,1.0,,1.0,,SM,IRR,457,4.0
+559,154213,high,P2,3.0,But,But,Contrast,,1.0,,1.0,,SM,IRR,457,4.0
+560,154213,high,P2,4.0,As a result,As a result,Causal,,1.0,,1.0,,SM,IRR,457,4.0
+561,449267,low,P3,1.0,Because,Because,Causal,,1.0,,1.0,somewhat backwards logic,SM,IRR,250,6.0
+562,449267,low,P3,2.0,Because,Because,Causal,,1.0,,1.0,,SM,IRR,250,6.0
+563,449267,low,P3,3.0,For example,For my example,Addition,,0.0,collocation,1.0,,SM,IRR,250,6.0
+564,449267,low,P3,4.0,Therefore,Therefore,Causal,,1.0,,1.0, a bit unclear,SM,IRR,250,6.0
+565,449267,low,P3,5.0,Because,Because,Causal,,1.0,,0.0,no clear cause,SM,IRR,250,6.0
+566,449267,low,P3,6.0,But,But,Contrast,,1.0,,1.0,,SM,IRR,250,6.0
+567,450359,low,P3,1.0,First,First,Temporal,,1.0,,1.0,,SM,IRR,167,4.0
+568,450359,low,P3,2.0,for example,for example,Addition,,1.0,,0.0,not clear what adding to argument,SM,IRR,167,4.0
+569,450359,low,P3,3.0,Second,Second,Temporal,,1.0,,1.0,,SM,IRR,167,4.0
+570,450359,low,P3,4.0,However,However,Contrast,,1.0,,1.0,somewhat unclear,SM,IRR,167,4.0
+571,533016,low,P3,1.0,But,But,Contrast,,1.0,,1.0,,SM,IRR,153,4.0
+572,533016,low,P3,2.0,For example,For example,Addition,,1.0,,1.0,,SM,IRR,153,4.0
+573,533016,low,P3,3.0,And,And,Addition,,1.0,,1.0,,SM,IRR,153,4.0
+574,533016,low,P3,4.0,But,But,Contrast,,1.0,,1.0,,SM,IRR,153,4.0
+575,78009,medium,P3,1.0,First of all,First of all,Temporal,,1.0,,1.0,,SM,IRR,313,3.0
+576,78009,medium,P3,2.0,But,But,Contrast,,1.0,,1.0,,SM,IRR,313,3.0
+577,78009,medium,P3,3.0,So,So,Causal,,1.0,,1.0,,SM,IRR,313,3.0
+578,109346,medium,P3,1.0,Thus,Thus,Causal,,1.0,,1.0,,SM,IRR,291,5.0
+579,109346,medium,P3,2.0,But,But,Contrast,,1.0,,1.0,,SM,IRR,291,5.0
+580,109346,medium,P3,3.0,on the other hand,on the other hand,Contrast,,1.0,,1.0,,SM,IRR,291,5.0
+581,109346,medium,P3,4.0,Yet,Yet,Contrast,,1.0,,1.0,,SM,IRR,291,5.0
+582,109346,medium,P3,5.0,For example,For example,Addition,,1.0,,1.0,,SM,IRR,291,5.0
+583,120793,high,P3,1.0,For instance,For instance,Addition,,1.0,,1.0,,SM,IRR,268,5.0
+584,120793,high,P3,2.0,Since,Since,Causal,,1.0,,1.0,,SM,IRR,268,5.0
+585,120793,high,P3,3.0,But,But,Contrast,,1.0,,1.0,,SM,IRR,268,5.0
+586,120793,high,P3,4.0,Although,Although,Contrast,,1.0,,1.0,,SM,IRR,268,5.0
+587,120793,high,P3,5.0,So,So,Causal,,1.0,,0.0,should be something to signal conclusion,SM,IRR,268,5.0
+588,162639,high,P3,1.0,And,And,Addition,,1.0,,1.0,,SM,IRR,370,7.0
+589,162639,high,P3,2.0,finally,finally,Temporal,,1.0,,1.0,,SM,IRR,370,7.0
+590,162639,high,P3,3.0,On the other hand,On the other hand,Contrast,,1.0,,1.0,,SM,IRR,370,7.0
+591,162639,high,P3,4.0,Thus,Thus,Causal,,1.0,,1.0,,SM,IRR,370,7.0
+592,162639,high,P3,5.0,finally,finally,Temporal,,1.0,,0.0,no clear temporal relation,SM,IRR,370,7.0
+593,162639,high,P3,6.0,All in all,All in all,Temporal,,1.0,,1.0,,SM,IRR,370,7.0
+594,162639,high,P3,7.0,Therefore,Therefore,Causal,,1.0,,1.0,,SM,IRR,370,7.0
+595,187564,high,P3,1.0,But,But,Contrast,,1.0,,1.0,,SM,IRR,397,7.0
+596,187564,high,P3,2.0,And,And,Addition,,1.0,,1.0,,SM,IRR,397,7.0
+597,187564,high,P3,3.0,And,And,Addition,,1.0,,1.0,,SM,IRR,397,7.0
+598,187564,high,P3,4.0,So,So,Causal,,1.0,,1.0,overuse of so,SM,IRR,397,7.0
+599,187564,high,P3,5.0,So,So,Causal,,1.0,,1.0,,SM,IRR,397,7.0
+600,187564,high,P3,6.0,Therefore,Therefore,Causal,,1.0,,1.0,,SM,IRR,397,7.0
+601,187564,high,P3,7.0,Overall,Overall,Temporal,,1.0,,1.0,,SM,IRR,397,7.0
+602,749940,low,P3,1.0,however,however,contrast,,1.0,,1.0,,SD,post_IRR,130,1.0
+603,766537,low,P3,1.0,Although,Although,Contrast,,1.0,,1.0,,SD,post_IRR,238,4.0
+604,766537,low,P3,2.0,Therefore,Therefor,Causal,,0.0,Spelling,0.0,Doesn't make sense,SD,post_IRR,238,4.0
+605,766537,low,P3,3.0,So,So,Causal,,1.0,,1.0,,SD,post_IRR,238,4.0
+606,766537,low,P3,4.0,However,However,Contrast,,1.0,,1.0,,SD,post_IRR,238,4.0
+607,1106726,low,P3,1.0,Because,Because,causal,,1.0,,0.0,Sentence fragment - doesn't really make sense,SD,post_IRR,143,1.0
+608,1352604,low,P3,1.0,So,So,causal,,1.0,,0.0,Causal link not established,SD,post_IRR,281,5.0
+609,1352604,low,P3,2.0,So,So,causal,,1.0,,0.0,Difficult to understand,SD,post_IRR,281,5.0
+610,1352604,low,P3,3.0,Of course,Of course,contrast,,1.0,,1.0,,SD,post_IRR,281,5.0
+611,1352604,low,P3,4.0,So,So,causal,,1.0,,0.0,Causal link not established,SD,post_IRR,281,5.0
+612,1352604,low,P3,5.0,In a word,At one word,temporal,,0.0,Collocation,1.0,,SD,post_IRR,281,5.0
+613,41900,low,P4,1.0,for example,For example,addition,,1.0,,1.0,,SD,post_IRR,183,4.0
+614,41900,low,P4,2.0,but,But,contrast,,1.0,,1.0,,SD,post_IRR,183,4.0
+615,41900,low,P4,3.0,so,So,causal,,1.0,,0.0,No causal link needed,SD,post_IRR,183,4.0
+616,41900,low,P4,4.0,overall,overall,temporal,,1.0,,1.0,,SD,post_IRR,183,4.0
+617,547114,low,P4,1.0,For example,for example,Addition,,1.0,,1.0,,SD,post_IRR,300,4.0
+618,547114,low,P4,2.0,So,so,Causal,,1.0,,0.0,No causal link established,SD,post_IRR,300,4.0
+619,547114,low,P4,3.0,So,so,Causal,,1.0,,1.0,,SD,post_IRR,300,4.0
+620,547114,low,P4,4.0,then,then,Temporal,,1.0,,1.0,,SD,post_IRR,300,4.0
+621,589458,low,P4,1.0,Yet,Yet,contrast,,1.0,,0.0,Following sentence does not contrast with previous statement,SD,post_IRR,154,3.0
+622,589458,low,P4,2.0,For instance,for instance,addition,,1.0,,1.0,,SD,post_IRR,154,3.0
+623,589458,low,P4,3.0,therefore,therefore,causal,,1.0,,1.0,,SD,post_IRR,154,3.0
+624,668750,low,P4,1.0,Because,Because,Causal,,1.0,,0.0,Unable to understand sentence.,SD,post_IRR,295,5.0
+625,668750,low,P4,2.0,First,First reason,Temporal,,0.0,Collocation,1.0,,SD,post_IRR,295,5.0
+626,668750,low,P4,3.0,Actually,Actually,Contrast,,1.0,,0.0,Contrast not appropriate,SD,post_IRR,295,5.0
+627,668750,low,P4,4.0,Second,Second reason,Temporal,,0.0,Collocation,1.0,,SD,post_IRR,295,5.0
+628,668750,low,P4,5.0,Finally,Finally,Temporal,,1.0,,1.0,,SD,post_IRR,295,5.0
+629,697953,low,P4,1.0,First of all,First of all,Temporal,,1.0,,1.0,,SD,post_IRR,261,8.0
+630,697953,low,P4,2.0,For example,For example,Addition,,1.0,,1.0,,SD,post_IRR,261,8.0
+631,697953,low,P4,3.0,But,But,Contrast,,1.0,,1.0,,SD,post_IRR,261,8.0
+632,697953,low,P4,4.0,Moreover,Moreover,Addition,,1.0,,0.0,,SD,post_IRR,261,8.0
+633,697953,low,P4,5.0,Second,Second,Temporal,,1.0,,1.0,,SD,post_IRR,261,8.0
+634,697953,low,P4,6.0,For instance,For instances,Addition,,0.0,Spelling,1.0,,SD,post_IRR,261,8.0
+635,697953,low,P4,7.0,However,However,Contrast,,1.0,,1.0,,SD,post_IRR,261,8.0
+636,697953,low,P4,8.0,In summary,In summary,Temporal,,1.0,,1.0,,SD,post_IRR,261,8.0
+637,741780,low,P4,1.0,First of all,First of all,Temporal,,1.0,,1.0,,SD,post_IRR,149,4.0
+638,741780,low,P4,2.0,Because,Because,Causal,,1.0,,1.0,,SD,post_IRR,149,4.0
+639,741780,low,P4,3.0,Additionally,Additionally,Addition,,1.0,,1.0,,SD,post_IRR,149,4.0
+640,741780,low,P4,4.0,However,However,Contrast,,1.0,,1.0,,SD,post_IRR,149,4.0
+641,1001566,low,P4,1.0,First,First,Temporal,,1.0,,1.0,,SD,post_IRR,204,5.0
+642,1001566,low,P4,2.0,But,But,Contrast,,1.0,,1.0,,SD,post_IRR,204,5.0
+643,1001566,low,P4,3.0,Second,Second,Temporal,,1.0,,1.0,,SD,post_IRR,204,5.0
+644,1001566,low,P4,4.0,Third,Third,Temporal,,1.0,,1.0,,SD,post_IRR,204,5.0
+645,1001566,low,P4,5.0,So,So,Causal,,1.0,,1.0,,SD,post_IRR,204,5.0
+646,59730,low,P5,1.0,Therefore,Therefore,Causal,,1.0,,1.0,,SD,post_IRR,176,4.0
+647,59730,low,P5,2.0,However,However,Contrast,,1.0,,1.0,,SD,post_IRR,176,4.0
+648,59730,low,P5,3.0,On the other hand,On the other hand,Contrast,,1.0,,1.0,,SD,post_IRR,176,4.0
+649,59730,low,P5,4.0,Because,Because,Causal,,1.0,,1.0,,SD,post_IRR,176,4.0
+650,1516048,low,P5,1.0,First of all,First of all,Temporal,,1.0,,1.0,,SD,post_IRR,285,2.0
+651,1516048,low,P5,2.0,Secondly,Secondly,Temporal,,1.0,,1.0,,SD,post_IRR,285,2.0
+652,136346,low,P5,1.0,First of all,First of all,temporal,,1.0,,1.0,,SD,post_IRR,338,7.0
+653,136346,low,P5,2.0,For instance,For instence,addition,,0.0,spelling,1.0,,SD,post_IRR,338,7.0
+654,136346,low,P5,3.0,So,So,causal,,1.0,,1.0,,SD,post_IRR,338,7.0
+655,136346,low,P5,4.0,In addition,Beyond this,addition,weird TM choice but clearly a TM,0.0,collocation,1.0,,SD,post_IRR,338,7.0
+656,136346,low,P5,5.0,So,So,causal,,1.0,,1.0,,SD,post_IRR,338,7.0
+657,136346,low,P5,6.0,So,So,causal,,1.0,,1.0,,SD,post_IRR,338,7.0
+658,136346,low,P5,7.0,in a nutshell,in a nutshell,temporal,,1.0,,1.0,,SD,post_IRR,338,7.0
+659,384115,low,P5,1.0,First of all,First of all,Temporal,,1.0,,1.0,,SD,post_IRR,197,9.0
+660,384115,low,P5,2.0,For example,For example,Addition,,1.0,,1.0,,SD,post_IRR,197,9.0
+661,384115,low,P5,3.0,Moreover,Moreover,Addition,,1.0,,0.0,The connection doesn't make sense,SD,post_IRR,197,9.0
+662,384115,low,P5,4.0,In addition,In addition,Addition,,1.0,,1.0,,SD,post_IRR,197,9.0
+663,384115,low,P5,5.0,For instance,For instance,Addition,,1.0,,1.0,,SD,post_IRR,197,9.0
+664,384115,low,P5,6.0,Furthermore,Furthermore,Addition,,1.0,,0.0,Not an additional point - contrast might be better,SD,post_IRR,197,9.0
+665,384115,low,P5,7.0,In summary,In summary,Temporal,,1.0,,1.0,,SD,post_IRR,197,9.0
+666,384115,low,P5,8.0,Furthermore,Furthermore,Addition,,1.0,,1.0,,SD,post_IRR,197,9.0
+667,384115,low,P5,9.0,So,So,Causal,,1.0,,1.0,,SD,post_IRR,197,9.0
+668,530123,low,P5,1.0,And,And,Addition,,1.0,,1.0,,SD,post_IRR,274,5.0
+669,530123,low,P5,2.0,Firstly,Firstly,Temporal,,1.0,,1.0,,SD,post_IRR,274,5.0
+670,530123,low,P5,3.0,Secondly,Secondly,Temporal,,1.0,,1.0,,SD,post_IRR,274,5.0
+671,530123,low,P5,4.0,Last but not least,Last but not the least,Temporal,,1.0,,1.0,,SD,post_IRR,274,5.0
+672,530123,low,P5,5.0,All in all,All in all,Temporal,,1.0,,1.0,,SD,post_IRR,274,5.0
+673,1629080,low,P5,1.0,First,First,Temporal,,1.0,,1.0,,SD,post_IRR,209,4.0
+674,1629080,low,P5,2.0,So,so,Causal,,1.0,,1.0,,SD,post_IRR,209,4.0
+675,1629080,low,P5,3.0,Second,Second,Temporal,,1.0,,1.0,,SD,post_IRR,209,4.0
+676,1629080,low,P5,4.0,Third,Third,Temporal,,1.0,,1.0,,SD,post_IRR,209,4.0
+677,1162943,low,P5,1.0,Nevertheless,Nevertheless,Contrast,,1.0,,1.0,,SD,post_IRR,254,2.0
+678,1162943,low,P5,2.0,To sum up,To sum up,Temporal,,1.0,,1.0,,SD,post_IRR,254,2.0
+679,130222,medium,P3,1.0,Although,Although,Contrast,,1.0,,1.0,,SD,post_IRR,331,7.0
+680,130222,medium,P3,2.0,In addition,In addition,Addition,,1.0,,1.0,,SD,post_IRR,331,7.0
+681,130222,medium,P3,3.0,Furthermore,Furthermore,Addition,,1.0,,1.0,,SD,post_IRR,331,7.0
+682,130222,medium,P3,4.0,So,So,Causal,,1.0,,0.0,No need for causal link,SD,post_IRR,331,7.0
+683,130222,medium,P3,5.0,Firstly,Firstly,Temporal,,1.0,,1.0,,SD,post_IRR,331,7.0
+684,130222,medium,P3,6.0,Then,Then,Temporal,,1.0,,1.0,,SD,post_IRR,331,7.0
+685,130222,medium,P3,7.0,And,And,Addition,,1.0,,1.0,,SD,post_IRR,331,7.0
+686,159928,medium,P3,1.0,First of all,First of all,Temporal,,1.0,,1.0,,SD,post_IRR,308,4.0
+687,159928,medium,P3,2.0,Secondly,Secondly,Temporal,,1.0,,1.0,,SD,post_IRR,308,4.0
+688,159928,medium,P3,3.0,Finally,Finally,Temporal,,1.0,,1.0,,SD,post_IRR,308,4.0
+689,159928,medium,P3,4.0,For example,For example,Addition,,1.0,,1.0,,SD,post_IRR,308,4.0
+690,188996,medium,P3,1.0,For example,For example,Addition,,1.0,,1.0,,SD,post_IRR,342,4.0
+691,188996,medium,P3,2.0,Yet,Yet,Contrast,,1.0,,1.0,,SD,post_IRR,342,4.0
+692,188996,medium,P3,3.0,For instance,For instance,Addition,,1.0,,1.0,,SD,post_IRR,342,4.0
+693,188996,medium,P3,4.0,In conclusion,In conclusion,Temporal,,1.0,,1.0,,SD,post_IRR,342,4.0
+694,195811,medium,P3,1.0,First of all,First of all,Temporal,,1.0,,1.0,,SD,post_IRR,312,7.0
+695,195811,medium,P3,2.0,For example,For example,Addition,,1.0,,1.0,,SD,post_IRR,312,7.0
+696,195811,medium,P3,3.0,However,However,Contrast,,1.0,,1.0,,SD,post_IRR,312,7.0
+697,195811,medium,P3,4.0,Second,Second,Temporal,,1.0,,1.0,,SD,post_IRR,312,7.0
+698,195811,medium,P3,5.0,But,But,Contrast,,1.0,,1.0,,SD,post_IRR,312,7.0
+699,195811,medium,P3,6.0,Last but not least,Last but not least,Temporal,,1.0,,0.0,Transition from general statements to specific example. Should be addition rather than temporal,SD,post_IRR,312,7.0
+700,195811,medium,P3,7.0,On the other hand,On the other hand,Contrast,,1.0,,1.0, ,SD,post_IRR,312,7.0
+701,198024,medium,P3,1.0,On the other hand,On the other hand,Contrast,,1.0,,0.0,The two statements do not contras; rather it is a supporting point.,SD,post_IRR,275,1.0
+702,24312,medium,P4,1.0,Although,Although,Contrast,,1.0,,1.0,,SD,post_IRR,296,8.0
+703,24312,medium,P4,2.0,For example,For example,Addition,,1.0,,1.0,,SD,post_IRR,296,8.0
+704,24312,medium,P4,3.0,But,But,Contrast,,1.0,,1.0,,SD,post_IRR,296,8.0
+705,24312,medium,P4,4.0,So,So,Causal,,1.0,,0.0,No need for causal link here,SD,post_IRR,296,8.0
+706,24312,medium,P4,5.0,Because,Because,Causal,,1.0,,1.0,,SD,post_IRR,296,8.0
+707,24312,medium,P4,6.0,And,And,Addition,,1.0,,1.0,,SD,post_IRR,296,8.0
+708,24312,medium,P4,7.0,Because,Because,Causal,,1.0,,1.0,,SD,post_IRR,296,8.0
+709,24312,medium,P4,8.0,So,So,Causal,,1.0,,0.0,Should be conclusion (temporal),SD,post_IRR,296,8.0
+710,29397,medium,P4,1.0,however,however,contrast,,1.0,,1.0,,SD,post_IRR,334,6.0
+711,29397,medium,P4,2.0,First of all,First of all,temporal,,1.0,,1.0,,SD,post_IRR,334,6.0
+712,29397,medium,P4,3.0,However,However,contrast,,1.0,,1.0,,SD,post_IRR,334,6.0
+713,29397,medium,P4,4.0,Secondly,Secondly,temporal,,1.0,,1.0,,SD,post_IRR,334,6.0
+714,29397,medium,P4,5.0,For example,For example,addition,,1.0,,1.0,,SD,post_IRR,334,6.0
+715,29397,medium,P4,6.0,In conclusion,In conclusion,temporal,,1.0,,1.0,,SD,post_IRR,334,6.0
+716,37807,medium,P4,1.0,In other words,In other word,Addition,,1.0,,1.0,,SD,post_IRR,266,1.0
+717,50082,medium,P4,1.0,But,But,Contrast,,1.0,,0.0,Contrast not appropriate here - no TM necessary,SD,post_IRR,334,9.0
+718,50082,medium,P4,2.0,So,So,Causal,,1.0,,1.0,,SD,post_IRR,334,9.0
+719,50082,medium,P4,3.0,Secondly,Secondly,Temporal,,1.0,,1.0,,SD,post_IRR,334,9.0
+720,50082,medium,P4,4.0,But,But,Contrast,,1.0,,1.0,,SD,post_IRR,334,9.0
+721,50082,medium,P4,5.0,For instance,For instance,Addition,,1.0,,0.0,This argument does not make sense,SD,post_IRR,334,9.0
+722,50082,medium,P4,6.0,But,But,Contrast,,1.0,,0.0,This argument does not make sense,SD,post_IRR,334,9.0
+723,50082,medium,P4,7.0,So,So,Causal,,1.0,,0.0,This argument does not make sense,SD,post_IRR,334,9.0
+724,50082,medium,P4,8.0,So,So,Causal,,1.0,,0.0,This argument does not make sense,SD,post_IRR,334,9.0
+725,50082,medium,P4,9.0,To sum up,To sum up,Temporal,,1.0,,1.0,,SD,post_IRR,334,9.0
+726,136109,medium,P4,1.0,But,But,Contrast,,1.0,,1.0,,SD,post_IRR,280,7.0
+727,136109,medium,P4,2.0,For example,For example,Addition,,1.0,,1.0,,SD,post_IRR,280,7.0
+728,136109,medium,P4,3.0,Then,Then,Temporal,,1.0,,0.0,No need for TM,SD,post_IRR,280,7.0
+729,136109,medium,P4,4.0,Then,Then,Temporal,,1.0,,0.0,No need for TM,SD,post_IRR,280,7.0
+730,136109,medium,P4,5.0,But,But,Contrast,,1.0,,1.0,,SD,post_IRR,280,7.0
+731,136109,medium,P4,5.0,Then,Then,Temporal,,1.0,,0.0,Should be causal TM if at all,SD,post_IRR,280,7.0
+732,136109,medium,P4,6.0,But,But,Contrast,,1.0,,0.0,No need for TM,SD,post_IRR,280,7.0
+733,136109,medium,P4,7.0,But,But,Contrast,,1.0,,1.0,,SD,post_IRR,280,7.0
+734,148941,medium,P4,1.0,First,At first,temporal,,0.0,collocation,1.0,,SD,post_IRR,376,6.0
+735,148941,medium,P4,2.0,Because,Because,causal,,1.0,,1.0,,SD,post_IRR,376,6.0
+736,148941,medium,P4,3.0,For example,For example,addition,,1.0,,1.0,,SD,post_IRR,376,6.0
+737,148941,medium,P4,4.0,Then,Then,temporal,,1.0,,1.0,,SD,post_IRR,376,6.0
+738,148941,medium,P4,5.0,And,And,addition,,1.0,,1.0,,SD,post_IRR,376,6.0
+739,148941,medium,P4,6.0,then,then,temporal,,1.0,,1.0,,SD,post_IRR,376,6.0
+740,177119,medium,P4,1.0,Instead,Instead,Contrast,,1.0,,1.0,,SD,post_IRR,323,9.0
+741,177119,medium,P4,2.0,For example,For example,Addition,,1.0,,1.0,,SD,post_IRR,323,9.0
+742,177119,medium,P4,3.0,However,However,Contrast,,1.0,,1.0,,SD,post_IRR,323,9.0
+743,177119,medium,P4,4.0,Moreover,Moreover,Addition,,1.0,,1.0,,SD,post_IRR,323,9.0
+744,177119,medium,P4,5.0,Of course,Of course,Contrast,,1.0,,1.0,,SD,post_IRR,323,9.0
+745,177119,medium,P4,6.0,However,However,Contrast,,1.0,,1.0,,SD,post_IRR,323,9.0
+746,177119,medium,P4,7.0,Because,Because of,Causal,Unnecessary insertion of preposition,0.0,collocation,1.0,,SD,post_IRR,323,9.0
+747,177119,medium,P4,8.0,Of course,Of course,Comparison,,1.0,,1.0,,SD,post_IRR,323,9.0
+748,177119,medium,P4,9.0,Therefore,Therefore,Causal,,1.0,,1.0,,SD,post_IRR,323,9.0
+749,18772,medium,P5,1.0,But,But,Contrast,,1.0,,1.0,,SD,post_IRR,385,5.0
+750,18772,medium,P5,2.0,at the same time,at the same time,Contrast,,1.0,,0.0,redundant contrast TM,SD,post_IRR,385,5.0
+751,18772,medium,P5,3.0,And,And,Addition,,1.0,,1.0,,SD,post_IRR,385,5.0
+752,18772,medium,P5,4.0,And,And,Addition,,1.0,,1.0,,SD,post_IRR,385,5.0
+753,18772,medium,P5,5.0,But,But,Contrast,,1.0,,1.0,,SD,post_IRR,385,5.0
+754,26125,medium,P5,1.0,But,But,contrast,,1.0,,0.0,not clear what contrasting,SD,post_IRR,340,11.0
+755,26125,medium,P5,2.0,Firstly,Firstly,temporal,,1.0,,1.0,,SD,post_IRR,340,11.0
+756,26125,medium,P5,3.0,But,But,contrast,,1.0,,1.0,,SD,post_IRR,340,11.0
+757,26125,medium,P5,4.0,Secondly,Secondly,temporal,,1.0,,1.0,,SD,post_IRR,340,11.0
+758,26125,medium,P5,5.0,So,So,causal,,1.0,,1.0,,SD,post_IRR,340,11.0
+759,26125,medium,P5,6.0,Thirdly,Thirdly,temporal,,1.0,,1.0,,SD,post_IRR,340,11.0
+760,26125,medium,P5,7.0,Last but not least,Last but not least,temporal,,1.0,,1.0,,SD,post_IRR,340,11.0
+761,26125,medium,P5,8.0,For instance,For instance,addition,,1.0,,1.0,,SD,post_IRR,340,11.0
+762,26125,medium,P5,9.0,Besides,Besides,addition,,1.0,,1.0,,SD,post_IRR,340,11.0
+763,26125,medium,P5,10.0,In conclusion,In conclusion,temporal,,1.0,,1.0,,SD,post_IRR,340,11.0
+764,26125,medium,P5,11.0,So,So,causal,,1.0,,1.0,,SD,post_IRR,340,11.0
+765,35420,medium,P5,1.0,Therefore,Therefore,causal,,1.0,,1.0,,SD,post_IRR,277,5.0
+766,35420,medium,P5,2.0,First of all,First of all,temporal,,1.0,,1.0,,SD,post_IRR,277,5.0
+767,35420,medium,P5,3.0,Besides,Besides,addition,,1.0,,1.0,,SD,post_IRR,277,5.0
+768,35420,medium,P5,4.0,Secondly,Secondly,temporal,,1.0,,1.0,,SD,post_IRR,277,5.0
+769,35420,medium,P5,5.0,Finally,Finally,temporal,,1.0,,1.0,,SD,post_IRR,277,5.0
+770,47554,medium,P5,1.0,To begin with,To begin with,temporal,,1.0,,1.0,,SD,post_IRR,342,11.0
+771,47554,medium,P5,2.0,Besides,addition,addition,,1.0,,1.0,,SD,post_IRR,342,11.0
+772,47554,medium,P5,3.0,For example,For example,addition,,1.0,,1.0,,SD,post_IRR,342,11.0
+773,47554,medium,P5,4.0,Second,Second,temporal,,1.0,,1.0,,SD,post_IRR,342,11.0
+774,47554,medium,P5,5.0,Besides,Besides,addition,,1.0,,1.0,"more appropriate in oral register, though",SD,post_IRR,342,11.0
+775,47554,medium,P5,6.0,However,However,contrast,,1.0,,1.0,,SD,post_IRR,342,11.0
+776,47554,medium,P5,7.0,Since,Since,causal,,1.0,,1.0,,SD,post_IRR,342,11.0
+777,47554,medium,P5,8.0,Hence,Hence,causal,,1.0,,1.0,,SD,post_IRR,342,11.0
+778,47554,medium,P5,9.0,Third,Third,temporal,,1.0,,1.0,,SD,post_IRR,342,11.0
+779,47554,medium,P5,10.0,Therefore,Therefore,causal,,1.0,,1.0,,SD,post_IRR,342,11.0
+780,47554,medium,P5,11.0,In summary,In summary,temporal,,1.0,,1.0,,SD,post_IRR,342,11.0
+781,52674,medium,P5,1.0,Even though,Even though,contrast,,1.0,,1.0,,SD,post_IRR,287,6.0
+782,52674,medium,P5,2.0,First,First,temporal,,1.0,,1.0,,SD,post_IRR,287,6.0
+783,52674,medium,P5,3.0,Second,Second,temporal,,1.0,,1.0,,SD,post_IRR,287,6.0
+784,52674,medium,P5,4.0,What's more,What's more,addition,,1.0,,1.0,,SD,post_IRR,287,6.0
+785,52674,medium,P5,5.0,Therefore,Therefore,causal,,1.0,,1.0,,SD,post_IRR,287,6.0
+786,52674,medium,P5,6.0,To sum up,To sum up,temporal,,1.0,,1.0,,SD,post_IRR,287,6.0
+787,70644,medium,P5,,,,,,,,,,SD,post_IRR,335,
+788,94655,medium,P5,1.0,Also,Also,addition,,1.0,,1.0,,SD,post_IRR,277,3.0
+789,94655,medium,P5,2.0,So,So,causal,,1.0,,1.0,,SD,post_IRR,277,3.0
+790,94655,medium,P5,3.0,And,And,addition,,1.0,,1.0,,SD,post_IRR,277,3.0
+791,201296,high,P3,1.0,Since,Since,causal,,1.0,,1.0,,SD,post_IRR,312,7.0
+792,201296,high,P3,2.0,In fact,In fact,addition,,1.0,,1.0,,SD,post_IRR,312,7.0
+793,201296,high,P3,3.0,meanwhile,meanwhile,contrast,,1.0,,1.0,,SD,post_IRR,312,7.0
+794,201296,high,P3,4.0,Therefore,Therefore,causal,,1.0,,1.0,,SD,post_IRR,312,7.0
+795,201296,high,P3,5.0,What's more,What's more,addition,,1.0,,1.0,,SD,post_IRR,312,7.0
+796,201296,high,P3,6.0,Indeed,Indeed,addition,,1.0,,1.0,,SD,post_IRR,312,7.0
+797,201296,high,P3,7.0,And,And,addition,,1.0,,1.0,,SD,post_IRR,312,7.0
+798,205833,high,P3,1.0,For example,For example,addition,,1.0,,1.0,,SD,post_IRR,390,2.0
+799,205833,high,P3,2.0,Besides,Besides,addition,,1.0,,1.0,,SD,post_IRR,390,2.0
+800,265853,high,P3,1.0,As a result,As a result,causal,,1.0,,1.0,,SD,post_IRR,341,10.0
+801,265853,high,P3,2.0,To begin with,To begin with,temporal,,1.0,,1.0,,SD,post_IRR,341,10.0
+802,265853,high,P3,3.0,And,And,addition,,1.0,,1.0,,SD,post_IRR,341,10.0
+803,265853,high,P3,4.0,Secondly,Secondly,temporal,,1.0,,1.0,,SD,post_IRR,341,10.0
+804,265853,high,P3,5.0,In fact,In fact,addition,,1.0,,1.0,,SD,post_IRR,341,10.0
+805,265853,high,P3,6.0,And,And,addition,,1.0,,1.0,,SD,post_IRR,341,10.0
+806,265853,high,P3,7.0,Lastly,Lastly,temporal,,1.0,,1.0,,SD,post_IRR,341,10.0
+807,265853,high,P3,8.0,For instance,For instance,addition,,1.0,,1.0,,SD,post_IRR,341,10.0
+808,265853,high,P3,9.0,And,And,addition,,1.0,,1.0,,SD,post_IRR,341,10.0
+809,265853,high,P3,10.0,Therefore,Therefore,causal,,1.0,,1.0,,SD,post_IRR,341,10.0
+810,449207,high,P3,1.0,Although,Although,contrast,,1.0,,1.0,,SD,post_IRR,436,4.0
+811,449207,high,P3,2.0,Since,Since,causal,,1.0,,1.0,,SD,post_IRR,436,4.0
+812,449207,high,P3,3.0,however,however,contrast,,1.0,,1.0,,SD,post_IRR,436,4.0
+813,449207,high,P3,4.0,Instead,Instead,contrast,,1.0,,1.0,,SD,post_IRR,436,4.0
+814,103545,high,P4,1.0,However,However,contrast,,1.0,,1.0,,SD,post_IRR,395,10.0
+815,103545,high,P4,2.0,And,And,addition,,1.0,,1.0,not necessarily necessary,SD,post_IRR,395,10.0
+816,103545,high,P4,3.0,For example,For example,addition,,1.0,,1.0,,SD,post_IRR,395,10.0
+817,103545,high,P4,4.0,But,But,contrast,,1.0,,1.0,,SD,post_IRR,395,10.0
+818,103545,high,P4,5.0,But,But,contrast,,1.0,,1.0,,SD,post_IRR,395,10.0
+819,103545,high,P4,6.0,Since,Since,causal,,1.0,,1.0,,SD,post_IRR,395,10.0
+820,103545,high,P4,7.0,Of course,Of course,comparison,,1.0,,1.0,,SD,post_IRR,395,10.0
+821,103545,high,P4,8.0,But,But,contrast,,1.0,,1.0,,SD,post_IRR,395,10.0
+822,103545,high,P4,9.0,In fact,In fact,addition,,1.0,,1.0,,SD,post_IRR,395,10.0
+823,103545,high,P4,10.0,So,So,causal,,1.0,,1.0,,SD,post_IRR,395,10.0
+824,146304,high,P4,1.0,Therefore,Therefore,causal,,1.0,,1.0,,SD,post_IRR,300,5.0
+825,146304,high,P4,2.0,Thus,Thus,causal,,1.0,,0.0,causal relationship not clear,SD,post_IRR,300,5.0
+826,146304,high,P4,3.0,So,So,causal,,1.0,,1.0,,SD,post_IRR,300,5.0
+827,146304,high,P4,4.0,As a matter of fact,As a matter of fact,addition,,1.0,,1.0,,SD,post_IRR,300,5.0
+828,146304,high,P4,5.0,To sum up,To sum up,temporal,,1.0,,1.0,,SD,post_IRR,300,5.0
+829,224123,high,P4,1.0,However,However,contrast,,1.0,,1.0,,SD,post_IRR,408,7.0
+830,224123,high,P4,2.0,And,And,addition,,1.0,,1.0,,SD,post_IRR,408,7.0
+831,224123,high,P4,3.0,However,However,contrast,,1.0,,1.0,,SD,post_IRR,408,7.0
+832,224123,high,P4,4.0,In contrast,Oppositely,contrast,,0.0,lexical,1.0,,SD,post_IRR,408,7.0
+833,224123,high,P4,5.0,as a result,as a result,causal,,1.0,,1.0,,SD,post_IRR,408,7.0
+834,224123,high,P4,6.0,thus,thus,causal,,1.0,,1.0,,SD,post_IRR,408,7.0
+835,224123,high,P4,7.0,To conclude,To conclude,temporal,,1.0,,1.0,,SD,post_IRR,408,7.0
+836,243351,high,P4,1.0,As a matter of fact,As a matter of fact,addition,,1.0,,1.0,,SD,post_IRR,351,12.0
+837,243351,high,P4,2.0,First of all,First of all,temporal,,1.0,,1.0,,SD,post_IRR,351,12.0
+838,243351,high,P4,3.0,For example,For example,addition,,1.0,,1.0,,SD,post_IRR,351,12.0
+839,243351,high,P4,4.0,However,However,contrast,,1.0,,1.0,,SD,post_IRR,351,12.0
+840,243351,high,P4,5.0,Thus,Thus,causal,,1.0,,1.0,,SD,post_IRR,351,12.0
+841,243351,high,P4,6.0,Secondly,Secondly,temporal,,1.0,,1.0,,SD,post_IRR,351,12.0
+842,243351,high,P4,7.0,For example,For example,addition,,1.0,,1.0,,SD,post_IRR,351,12.0
+843,243351,high,P4,8.0,Moreover,Moreover,addition,,1.0,,1.0,feels a bit stuffy,SD,post_IRR,351,12.0
+844,243351,high,P4,9.0,However,However,contrast,,1.0,,1.0,,SD,post_IRR,351,12.0
+845,243351,high,P4,10.0,Therefore,Therefore,causal,,1.0,,1.0,,SD,post_IRR,351,12.0
+846,243351,high,P4,11.0,In conclusion,In conclusion,temporal,,1.0,,1.0,,SD,post_IRR,351,12.0
+847,243351,high,P4,12.0,Furthermore,Furthermore,addition,,1.0,,1.0,,SD,post_IRR,351,12.0
+848,270049,high,P4,1.0,Therefore,Therefore,causal,,1.0,,1.0,,SD,post_IRR,336,5.0
+849,270049,high,P4,2.0,And,And,addition,,1.0,,1.0,,SD,post_IRR,336,5.0
+850,270049,high,P4,3.0,But,But,contrast,,1.0,,1.0,,SD,post_IRR,336,5.0
+851,270049,high,P4,4.0,For example,For example,addition,,1.0,,1.0,,SD,post_IRR,336,5.0
+852,270049,high,P4,5.0,Although,Although,contrast,,1.0,,1.0,,SD,post_IRR,336,5.0
+853,418195,high,P4,1.0,However,However,contrast,,1.0,,1.0,,SD,post_IRR,322,6.0
+854,418195,high,P4,2.0,But,But,contrast,,1.0,,1.0,,SD,post_IRR,322,6.0
+855,418195,high,P4,3.0,For example,For example,addition,,1.0,,1.0,,SD,post_IRR,322,6.0
+856,418195,high,P4,4.0,But,But,contrast,,1.0,,1.0,,SD,post_IRR,322,6.0
+857,418195,high,P4,5.0,For instance,For instance,addition,,1.0,,1.0,,SD,post_IRR,322,6.0
+858,418195,high,P4,6.0,But,But,contrast,,1.0,,1.0,,SD,post_IRR,322,6.0
+859,494935,high,P4,1.0,However,However,contrast,,1.0,,1.0,,SD,post_IRR,319,5.0
+860,494935,high,P4,2.0,For example,For example,addition,,1.0,,1.0,,SD,post_IRR,319,5.0
+861,494935,high,P4,3.0,However,However,contrast,,1.0,,1.0,,SD,post_IRR,319,5.0
+862,494935,high,P4,4.0,Moreover,Moreover,addition,,1.0,,1.0,,SD,post_IRR,319,5.0
+863,494935,high,P4,5.0,To sum up,To sum up,temporal,,1.0,,1.0,,SD,post_IRR,319,5.0
+864,22698,high,P5,1.0,In contrast,In contrast,contrast,,1.0,,1.0,,SD,post_IRR,463,8.0
+865,22698,high,P5,2.0,First,First,temporal,,1.0,,1.0,,SD,post_IRR,463,8.0
+866,22698,high,P5,3.0,Second,Second,temporal,,1.0,,1.0,,SD,post_IRR,463,8.0
+867,22698,high,P5,4.0,Last but not least,Last but not least,temporal,,1.0,,1.0,,SD,post_IRR,463,8.0
+868,22698,high,P5,5.0,Furthermore,Furthermore,addition,,1.0,,1.0,,SD,post_IRR,463,8.0
+869,22698,high,P5,6.0,For example,For example,addition,,1.0,,1.0,,SD,post_IRR,463,8.0
+870,22698,high,P5,7.0,Moreover,Moreover,addition,,1.0,,1.0,,SD,post_IRR,463,8.0
+871,22698,high,P5,8.0,Although,Although,contrast,,1.0,,1.0,,SD,post_IRR,463,8.0
+872,156787,high,P5,1.0,First,First,temporal,,1.0,,1.0,,SD,post_IRR,424,14.0
+873,156787,high,P5,2.0,Although,Although,contrast,,1.0,,1.0,,SD,post_IRR,424,14.0
+874,156787,high,P5,3.0,Second,Second,temporal,,1.0,,1.0,,SD,post_IRR,424,14.0
+875,156787,high,P5,4.0,However,However,contrast,,1.0,,1.0,,SD,post_IRR,424,14.0
+876,156787,high,P5,5.0,Moreover,Moreover,addition,,1.0,,1.0,,SD,post_IRR,424,14.0
+877,156787,high,P5,6.0,And,And,addition,,1.0,,1.0,,SD,post_IRR,424,14.0
+878,156787,high,P5,7.0,Also,Also,addition,,1.0,,1.0,,SD,post_IRR,424,14.0
+879,156787,high,P5,8.0,As a result,As a result,causal,,1.0,,1.0,,SD,post_IRR,424,14.0
+880,156787,high,P5,9.0,Third,Third,temporal,,1.0,,1.0,,SD,post_IRR,424,14.0
+881,156787,high,P5,10.0,Meanwhile,Meanwhile,contrast,,1.0,,1.0,,SD,post_IRR,424,14.0
+882,156787,high,P5,11.0,Further,Further,addition,,1.0,,1.0,,SD,post_IRR,424,14.0
+883,156787,high,P5,12.0,For example,For example,addition,,1.0,,1.0,,SD,post_IRR,424,14.0
+884,156787,high,P5,13.0,And,And,addition,,1.0,,1.0,,SD,post_IRR,424,14.0
+885,156787,high,P5,14.0,In conclusion,In conclusion,temporal,,1.0,,1.0,,SD,post_IRR,424,14.0
+886,182475,high,P5,1.0,To begin with,To begin with,temporal,,1.0,,1.0,,SD,post_IRR,337,9.0
+887,182475,high,P5,2.0,In addition,In addition,addition,,1.0,,1.0,,SD,post_IRR,337,9.0
+888,182475,high,P5,3.0,Moreover,Moreover,addition,,1.0,,1.0,,SD,post_IRR,337,9.0
+889,182475,high,P5,4.0,Since,Since,causal,,1.0,,1.0,,SD,post_IRR,337,9.0
+890,182475,high,P5,5.0,Finally,Finally,temporal,,1.0,,1.0,,SD,post_IRR,337,9.0
+891,182475,high,P5,6.0,Moreover,Moreover,addition,,1.0,,1.0,,SD,post_IRR,337,9.0
+892,182475,high,P5,7.0,On the contrary,On the countrary,contrast,,0.0,spelling,1.0,,SD,post_IRR,337,9.0
+893,182475,high,P5,8.0,Therefore,Therefore,causal,,1.0,,1.0,,SD,post_IRR,337,9.0
+894,182475,high,P5,9.0,In conclusion,In conclusion,temporal,,1.0,,1.0,,SD,post_IRR,337,9.0
+895,199088,high,P5,1.0,As a matter of fact,As a matter of fact,addition,,1.0,,1.0,,SD,post_IRR,446,6.0
+896,199088,high,P5,2.0,Also,Also,addition,,1.0,,1.0,,SD,post_IRR,446,6.0
+897,199088,high,P5,3.0,Therefore,Therefore,causal,,1.0,,1.0,,SD,post_IRR,446,6.0
+898,199088,high,P5,4.0,However,However,contrast,,1.0,,1.0,,SD,post_IRR,446,6.0
+899,199088,high,P5,5.0,Therefore,Therefore,causal,,1.0,,1.0,,SD,post_IRR,446,6.0
+900,199088,high,P5,6.0,Thus,Thus,causal,,1.0,,1.0,,SD,post_IRR,446,6.0
+901,363617,high,P5,1.0,Consequently,Consequently,causal,,1.0,,1.0,,SD,post_IRR,376,7.0
+902,363617,high,P5,2.0,Besides,Besides,addition,,1.0,,1.0,,SD,post_IRR,376,7.0
+903,363617,high,P5,3.0,Therefore,Therefore,causal,,1.0,,1.0,,SD,post_IRR,376,7.0
+904,363617,high,P5,4.0,In addition,In addition,addition,,1.0,,1.0,,SD,post_IRR,376,7.0
+905,363617,high,P5,5.0,For example,For example,addition,,1.0,,1.0,"followed by a sentence fragment, so not the most appropriate",SD,post_IRR,376,7.0
+906,363617,high,P5,6.0,Although,Although,contrast,,1.0,,1.0,,SD,post_IRR,376,7.0
+907,363617,high,P5,7.0,Thus,Thus,causal,,1.0,,1.0,,SD,post_IRR,376,7.0
+908,406887,high,P5,1.0,However,However,contrast,,1.0,,1.0,,SD,post_IRR,396,8.0
+909,406887,high,P5,2.0,First,First,temporal,,1.0,,1.0,,SD,post_IRR,396,8.0
+910,406887,high,P5,3.0,And,And,addition,,1.0,,1.0,,SD,post_IRR,396,8.0
+911,406887,high,P5,4.0,On the other hand,On the other hand,contrast,,1.0,,1.0,,SD,post_IRR,396,8.0
+912,406887,high,P5,5.0,Although,Although,contrast,,1.0,,1.0,,SD,post_IRR,396,8.0
+913,406887,high,P5,6.0,Meanwhile,Meanwhile,contrast,,1.0,,1.0,,SD,post_IRR,396,8.0
+914,406887,high,P5,7.0,meanwhile,meanwhile,contrast,,1.0,,0.0,while would be more appropriate,SD,post_IRR,396,8.0
+915,406887,high,P5,8.0,Therefore,Therefore,causal,,1.0,,1.0,,SD,post_IRR,396,8.0
+916,420620,high,P5,1.0,Firstly,Firstly,temporal,,1.0,,1.0,,SD,post_IRR,296,7.0
+917,420620,high,P5,2.0,Also,Also,addition,,1.0,,1.0,,SD,post_IRR,296,7.0
+918,420620,high,P5,3.0,However,However,contrast,,1.0,,1.0,,SD,post_IRR,296,7.0
+919,420620,high,P5,4.0,Firstly,Firstly,temporal,,1.0,,1.0,,SD,post_IRR,296,7.0
+920,420620,high,P5,5.0,Yet,Yet,contrast,,1.0,,1.0,,SD,post_IRR,296,7.0
+921,420620,high,P5,6.0,However,However,contrast,,1.0,,1.0,,SD,post_IRR,296,7.0
+922,420620,high,P5,7.0,Hence,Hence,causal,,1.0,,1.0,,SD,post_IRR,296,7.0
+923,432334,low,P1,1.0,however,however,contrast,,1.0,,1.0,,SD,post_IRR,195,5.0
+924,432334,low,P1,2.0,firstly,firstly,temporal,,1.0,,1.0,,SD,post_IRR,195,5.0
+925,432334,low,P1,3.0,for example,for example,addition,,1.0,,1.0,,SD,post_IRR,195,5.0
+926,432334,low,P1,4.0,but,but,contrast,,1.0,,1.0,,SD,post_IRR,195,5.0
+927,432334,low,P1,5.0,and,and,addition,,1.0,,1.0,,SD,post_IRR,195,5.0
+928,1734732,low,P1,1.0,but,but,contrast,,1.0,,1.0,,SD,post_IRR,313,8.0
+929,1734732,low,P1,2.0,but,but,contrast,,1.0,,1.0,,SD,post_IRR,313,8.0
+930,1734732,low,P1,3.0,and,and,addition,,1.0,,1.0,,SD,post_IRR,313,8.0
+931,1734732,low,P1,4.0,but,but,contrast,,1.0,,0.0,doesn't make sense,SD,post_IRR,313,8.0
+932,1734732,low,P1,5.0,so,so,causal,,1.0,,1.0,,SD,post_IRR,313,8.0
+933,1734732,low,P1,6.0,in fact,in fact,addition,,1.0,,0.0,addition doesn't work here because of causal TM right before,SD,post_IRR,313,8.0
+934,1734732,low,P1,7.0,and,and,addition,,1.0,,1.0,,SD,post_IRR,313,8.0
+935,1734732,low,P1,8.0,so,so,causal,,1.0,,1.0,,SD,post_IRR,313,8.0
+936,1812668,low,P1,1.0,For instance,For instance,addition,,1.0,,1.0,,SD,post_IRR,140,3.0
+937,1812668,low,P1,2.0,So,So,causal,,1.0,,1.0,,SD,post_IRR,140,3.0
+938,1812668,low,P1,3.0,Finally,Finally,temporal,,1.0,,1.0,,SD,post_IRR,140,3.0
+939,766494,low,P2,1.0,For instance,For instance,addition,,1.0,,1.0,,SD,post_IRR,374,6.0
+940,766494,low,P2,2.0,But,But,contrast,,1.0,,1.0,,SD,post_IRR,374,6.0
+941,766494,low,P2,3.0,Also,Alao,addition,,0.0,spelling,1.0,,SD,post_IRR,374,6.0
+942,766494,low,P2,4.0,For instance,For instance,addition,,1.0,,1.0,,SD,post_IRR,374,6.0
+943,766494,low,P2,5.0,On the other hand,On the other hand,contrast,,1.0,,1.0,,SD,post_IRR,374,6.0
+944,766494,low,P2,6.0,But,But,contrast,,1.0,,1.0,,SD,post_IRR,374,6.0
+945,850101,low,P2,1.0,Furthermore,Further more,addition,,1.0,,1.0,,SD,post_IRR,210,2.0
+946,850101,low,P2,2.0,So,So,causal,,1.0,,1.0,,SD,post_IRR,210,2.0
+947,69177,medium,P1,1.0,First,First,temporal,,1.0,,1.0,,SD,post_IRR,182,5.0
+948,69177,medium,P1,2.0,so,so,causal,,1.0,,1.0,,SD,post_IRR,182,5.0
+949,69177,medium,P1,3.0,Second,Second,temporal,,1.0,,1.0,,SD,post_IRR,182,5.0
+950,69177,medium,P1,4.0,for example,for example,addition,,1.0,,1.0,,SD,post_IRR,182,5.0
+951,69177,medium,P1,5.0,So,So,causal,,1.0,,1.0,,SD,post_IRR,182,5.0
+952,82613,medium,P1,1.0,However,However,contrast,,1.0,,1.0,,SD,post_IRR,322,4.0
+953,82613,medium,P1,2.0,for example,for example,addition,,1.0,,1.0,,SD,post_IRR,322,4.0
+954,82613,medium,P1,3.0,In addition,In addtion,addition,,0.0,spelling,1.0,,SD,post_IRR,322,4.0
+955,82613,medium,P1,4.0,In sum,In sum,temporal,,1.0,,1.0,,SD,post_IRR,322,4.0
+956,133707,medium,P2,1.0,First and foremost,First and foremost,temporal,,1.0,,1.0,,SD,post_IRR,313,4.0
+957,133707,medium,P2,2.0,Secondly,Secondly,temporal,,1.0,,1.0,,SD,post_IRR,313,4.0
+958,133707,medium,P2,3.0,Last but not least,Last but not least,temporal,,1.0,,1.0,,SD,post_IRR,313,4.0
+959,133707,medium,P2,4.0,In conclusion,In conclusion,temporal,,1.0,,1.0,,SD,post_IRR,313,4.0
+960,136035,medium,P2,1.0,first of all,first of all,temporal,,1.0,,1.0,,SD,post_IRR,236,10.0
+961,136035,medium,P2,2.0,however,however,contrast,,1.0,,1.0,,SD,post_IRR,236,10.0
+962,136035,medium,P2,3.0,second,second,temporal,,1.0,,1.0,,SD,post_IRR,236,10.0
+963,136035,medium,P2,4.0,for example,for example,addition,,1.0,,1.0,,SD,post_IRR,236,10.0
+964,136035,medium,P2,5.0,Yet,Yet,contrast,,1.0,,1.0,,SD,post_IRR,236,10.0
+965,136035,medium,P2,6.0,on the other hand,in the other hand,contrast,,0.0,collocation,1.0,,SD,post_IRR,236,10.0
+966,136035,medium,P2,7.0,yet,yet,contrast,,1.0,,0.0,"not debating two sides of the argument, addition would have been more appropriate",SD,post_IRR,236,10.0
+967,136035,medium,P2,8.0,so,so,causal,,1.0,,1.0,,SD,post_IRR,236,10.0
+968,136035,medium,P2,9.0,last but not least,last but not least,temporal,,1.0,,1.0,,SD,post_IRR,236,10.0
+969,136035,medium,P2,10.0,to sum up,to sum up,temporal,,1.0,,1.0,,SD,post_IRR,236,10.0
+970,338048,high,P1,1.0,First of all,First of all,temporal,,1.0,,1.0,,SD,post_IRR,336,8.0
+971,338048,high,P1,2.0,in fact,in fact,addition,,1.0,,1.0,,SD,post_IRR,336,8.0
+972,338048,high,P1,3.0,For example,For example,addition,,1.0,,1.0,,SD,post_IRR,336,8.0
+973,338048,high,P1,4.0,But,But,contrast,,1.0,,1.0,,SD,post_IRR,336,8.0
+974,338048,high,P1,5.0,Second,Second,temporal,,1.0,,1.0,,SD,post_IRR,336,8.0
+975,338048,high,P1,6.0,So,So,causal,,1.0,,1.0,,SD,post_IRR,336,8.0
+976,338048,high,P1,7.0,So,So,causal,,1.0,,1.0,,SD,post_IRR,336,8.0
+977,338048,high,P1,8.0,In a word,In a word,temporal,,1.0,,1.0,,SD,post_IRR,336,8.0
+978,1026756,low,P2,1.0,In this regard,In this regards,comparison,,0.0,Collocation,1.0,,,,204,7.0
+979,1026756,low,P2,2.0,First of all,First of all,temporal,,1.0,,1.0,,,,204,7.0
+980,1026756,low,P2,3.0,Therefore,Therefore,causal,,1.0,,1.0,,,,204,7.0
+981,1026756,low,P2,4.0,Besides,Besides,addition,,1.0,,1.0,,,,204,7.0
+982,1026756,low,P2,5.0,So,So,causal,,1.0,,1.0,,,,204,7.0
+983,1026756,low,P2,6.0,Lastly,At last,temporal,,0.0,Collocation,1.0,,,,204,7.0
+984,1026756,low,P2,7.0,To summarize,To summary,temporal,,0.0,Collocation,1.0,,,,204,7.0
